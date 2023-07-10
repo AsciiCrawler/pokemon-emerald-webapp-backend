@@ -1,0 +1,15 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "cockroachdb"
+  url      = env("DATABASE_URL")
+}
+
+model pokemon {
+  uuid          String @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name          String @default("") @db.String(100)
+  description   String @default("")
+  pokedex_index Int    @default(-1)
+}

@@ -2,3861 +2,3475 @@
     {
         "id": 1,
         "identifier": "bulbasaur",
-        "species_id": 1,
         "height": 7,
         "weight": 69,
         "base_experience": 64,
-        "order": 1,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/1.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/1.gif"
     },
     {
         "id": 2,
         "identifier": "ivysaur",
-        "species_id": 2,
         "height": 10,
         "weight": 130,
         "base_experience": 142,
-        "order": 2,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/2.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/2.gif"
     },
     {
         "id": 3,
         "identifier": "venusaur",
-        "species_id": 3,
         "height": 20,
         "weight": 1000,
         "base_experience": 263,
-        "order": 3,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/3.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/3.gif"
     },
     {
         "id": 4,
         "identifier": "charmander",
-        "species_id": 4,
         "height": 6,
         "weight": 85,
         "base_experience": 62,
-        "order": 5,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/4.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/4.gif"
     },
     {
         "id": 5,
         "identifier": "charmeleon",
-        "species_id": 5,
         "height": 11,
         "weight": 190,
         "base_experience": 142,
-        "order": 6,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/5.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/5.gif"
     },
     {
         "id": 6,
         "identifier": "charizard",
-        "species_id": 6,
         "height": 17,
         "weight": 905,
         "base_experience": 267,
-        "order": 7,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/6.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/6.gif"
     },
     {
         "id": 7,
         "identifier": "squirtle",
-        "species_id": 7,
         "height": 5,
         "weight": 90,
         "base_experience": 63,
-        "order": 10,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/7.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/7.gif"
     },
     {
         "id": 8,
         "identifier": "wartortle",
-        "species_id": 8,
         "height": 10,
         "weight": 225,
         "base_experience": 142,
-        "order": 11,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/8.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/8.gif"
     },
     {
         "id": 9,
         "identifier": "blastoise",
-        "species_id": 9,
         "height": 16,
         "weight": 855,
         "base_experience": 265,
-        "order": 12,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/9.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/9.gif"
     },
     {
         "id": 10,
         "identifier": "caterpie",
-        "species_id": 10,
         "height": 3,
         "weight": 29,
         "base_experience": 39,
-        "order": 14,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/10.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/10.gif"
     },
     {
         "id": 11,
         "identifier": "metapod",
-        "species_id": 11,
         "height": 7,
         "weight": 99,
         "base_experience": 72,
-        "order": 15,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/11.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/11.gif"
     },
     {
         "id": 12,
         "identifier": "butterfree",
-        "species_id": 12,
         "height": 11,
         "weight": 320,
         "base_experience": 198,
-        "order": 16,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/12.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/12.gif"
     },
     {
         "id": 13,
         "identifier": "weedle",
-        "species_id": 13,
         "height": 3,
         "weight": 32,
         "base_experience": 39,
-        "order": 17,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/13.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/13.gif"
     },
     {
         "id": 14,
         "identifier": "kakuna",
-        "species_id": 14,
         "height": 6,
         "weight": 100,
         "base_experience": 72,
-        "order": 18,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/14.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/14.gif"
     },
     {
         "id": 15,
         "identifier": "beedrill",
-        "species_id": 15,
         "height": 10,
         "weight": 295,
         "base_experience": 178,
-        "order": 19,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/15.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/15.gif"
     },
     {
         "id": 16,
         "identifier": "pidgey",
-        "species_id": 16,
         "height": 3,
         "weight": 18,
         "base_experience": 50,
-        "order": 21,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/16.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/16.gif"
     },
     {
         "id": 17,
         "identifier": "pidgeotto",
-        "species_id": 17,
         "height": 11,
         "weight": 300,
         "base_experience": 122,
-        "order": 22,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/17.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/17.gif"
     },
     {
         "id": 18,
         "identifier": "pidgeot",
-        "species_id": 18,
         "height": 15,
         "weight": 395,
         "base_experience": 216,
-        "order": 23,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/18.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/18.gif"
     },
     {
         "id": 19,
         "identifier": "rattata",
-        "species_id": 19,
         "height": 3,
         "weight": 35,
         "base_experience": 51,
-        "order": 25,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/19.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/19.gif"
     },
     {
         "id": 20,
         "identifier": "raticate",
-        "species_id": 20,
         "height": 7,
         "weight": 185,
         "base_experience": 145,
-        "order": 27,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/20.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/20.gif"
     },
     {
         "id": 21,
         "identifier": "spearow",
-        "species_id": 21,
         "height": 3,
         "weight": 20,
         "base_experience": 52,
-        "order": 30,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/21.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/21.gif"
     },
     {
         "id": 22,
         "identifier": "fearow",
-        "species_id": 22,
         "height": 12,
         "weight": 380,
         "base_experience": 155,
-        "order": 31,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/22.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/22.gif"
     },
     {
         "id": 23,
         "identifier": "ekans",
-        "species_id": 23,
         "height": 20,
         "weight": 69,
         "base_experience": 58,
-        "order": 32,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/23.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/23.gif"
     },
     {
         "id": 24,
         "identifier": "arbok",
-        "species_id": 24,
         "height": 35,
         "weight": 650,
         "base_experience": 157,
-        "order": 33,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/24.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/24.gif"
     },
     {
         "id": 25,
         "identifier": "pikachu",
-        "species_id": 25,
         "height": 4,
         "weight": 60,
         "base_experience": 112,
-        "order": 35,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/25.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/25.gif"
     },
     {
         "id": 26,
         "identifier": "raichu",
-        "species_id": 26,
         "height": 8,
         "weight": 300,
         "base_experience": 243,
-        "order": 51,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/26.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/26.gif"
     },
     {
         "id": 27,
         "identifier": "sandshrew",
-        "species_id": 27,
         "height": 6,
         "weight": 120,
         "base_experience": 60,
-        "order": 53,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/27.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/27.gif"
     },
     {
         "id": 28,
         "identifier": "sandslash",
-        "species_id": 28,
         "height": 10,
         "weight": 295,
         "base_experience": 158,
-        "order": 55,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/28.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/28.gif"
     },
     {
         "id": 29,
         "identifier": "nidoran-f",
-        "species_id": 29,
         "height": 4,
         "weight": 70,
         "base_experience": 55,
-        "order": 57,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/29.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/29.gif"
     },
     {
         "id": 30,
         "identifier": "nidorina",
-        "species_id": 30,
         "height": 8,
         "weight": 200,
         "base_experience": 128,
-        "order": 58,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/30.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/30.gif"
     },
     {
         "id": 31,
         "identifier": "nidoqueen",
-        "species_id": 31,
         "height": 13,
         "weight": 600,
         "base_experience": 253,
-        "order": 59,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/31.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/31.gif"
     },
     {
         "id": 32,
         "identifier": "nidoran-m",
-        "species_id": 32,
         "height": 5,
         "weight": 90,
         "base_experience": 55,
-        "order": 60,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/32.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/32.gif"
     },
     {
         "id": 33,
         "identifier": "nidorino",
-        "species_id": 33,
         "height": 9,
         "weight": 195,
         "base_experience": 128,
-        "order": 61,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/33.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/33.gif"
     },
     {
         "id": 34,
         "identifier": "nidoking",
-        "species_id": 34,
         "height": 14,
         "weight": 620,
         "base_experience": 253,
-        "order": 62,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/34.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/34.gif"
     },
     {
         "id": 35,
         "identifier": "clefairy",
-        "species_id": 35,
         "height": 6,
         "weight": 75,
         "base_experience": 113,
-        "order": 64,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/35.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/35.gif"
     },
     {
         "id": 36,
         "identifier": "clefable",
-        "species_id": 36,
         "height": 13,
         "weight": 400,
         "base_experience": 242,
-        "order": 65,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/36.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/36.gif"
     },
     {
         "id": 37,
         "identifier": "vulpix",
-        "species_id": 37,
         "height": 6,
         "weight": 99,
         "base_experience": 60,
-        "order": 66,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/37.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/37.gif"
     },
     {
         "id": 38,
         "identifier": "ninetales",
-        "species_id": 38,
         "height": 11,
         "weight": 199,
         "base_experience": 177,
-        "order": 68,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/38.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/38.gif"
     },
     {
         "id": 39,
         "identifier": "jigglypuff",
-        "species_id": 39,
         "height": 5,
         "weight": 55,
         "base_experience": 95,
-        "order": 71,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/39.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/39.gif"
     },
     {
         "id": 40,
         "identifier": "wigglytuff",
-        "species_id": 40,
         "height": 10,
         "weight": 120,
         "base_experience": 218,
-        "order": 72,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/40.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/40.gif"
     },
     {
         "id": 41,
         "identifier": "zubat",
-        "species_id": 41,
         "height": 8,
         "weight": 75,
         "base_experience": 49,
-        "order": 73,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/41.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/41.gif"
     },
     {
         "id": 42,
         "identifier": "golbat",
-        "species_id": 42,
         "height": 16,
         "weight": 550,
         "base_experience": 159,
-        "order": 74,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/42.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/42.gif"
     },
     {
         "id": 43,
         "identifier": "oddish",
-        "species_id": 43,
         "height": 5,
         "weight": 54,
         "base_experience": 64,
-        "order": 76,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/43.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/43.gif"
     },
     {
         "id": 44,
         "identifier": "gloom",
-        "species_id": 44,
         "height": 8,
         "weight": 86,
         "base_experience": 138,
-        "order": 77,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/44.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/44.gif"
     },
     {
         "id": 45,
         "identifier": "vileplume",
-        "species_id": 45,
         "height": 12,
         "weight": 186,
         "base_experience": 245,
-        "order": 78,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/45.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/45.gif"
     },
     {
         "id": 46,
         "identifier": "paras",
-        "species_id": 46,
         "height": 3,
         "weight": 54,
         "base_experience": 57,
-        "order": 80,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/46.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/46.gif"
     },
     {
         "id": 47,
         "identifier": "parasect",
-        "species_id": 47,
         "height": 10,
         "weight": 295,
         "base_experience": 142,
-        "order": 81,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/47.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/47.gif"
     },
     {
         "id": 48,
         "identifier": "venonat",
-        "species_id": 48,
         "height": 10,
         "weight": 300,
         "base_experience": 61,
-        "order": 82,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/48.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/48.gif"
     },
     {
         "id": 49,
         "identifier": "venomoth",
-        "species_id": 49,
         "height": 15,
         "weight": 125,
         "base_experience": 158,
-        "order": 83,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/49.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/49.gif"
     },
     {
         "id": 50,
         "identifier": "diglett",
-        "species_id": 50,
         "height": 2,
         "weight": 8,
         "base_experience": 53,
-        "order": 84,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/50.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/50.gif"
     },
     {
         "id": 51,
         "identifier": "dugtrio",
-        "species_id": 51,
         "height": 7,
         "weight": 333,
         "base_experience": 149,
-        "order": 86,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/51.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/51.gif"
     },
     {
         "id": 52,
         "identifier": "meowth",
-        "species_id": 52,
         "height": 4,
         "weight": 42,
         "base_experience": 58,
-        "order": 88,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/52.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/52.gif"
     },
     {
         "id": 53,
         "identifier": "persian",
-        "species_id": 53,
         "height": 10,
         "weight": 320,
         "base_experience": 154,
-        "order": 91,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/53.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/53.gif"
     },
     {
         "id": 54,
         "identifier": "psyduck",
-        "species_id": 54,
         "height": 8,
         "weight": 196,
         "base_experience": 64,
-        "order": 93,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/54.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/54.gif"
     },
     {
         "id": 55,
         "identifier": "golduck",
-        "species_id": 55,
         "height": 17,
         "weight": 766,
         "base_experience": 175,
-        "order": 94,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/55.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/55.gif"
     },
     {
         "id": 56,
         "identifier": "mankey",
-        "species_id": 56,
         "height": 5,
         "weight": 280,
         "base_experience": 61,
-        "order": 95,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/56.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/56.gif"
     },
     {
         "id": 57,
         "identifier": "primeape",
-        "species_id": 57,
         "height": 10,
         "weight": 320,
         "base_experience": 159,
-        "order": 96,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/57.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/57.gif"
     },
     {
         "id": 58,
         "identifier": "growlithe",
-        "species_id": 58,
         "height": 7,
         "weight": 190,
         "base_experience": 70,
-        "order": 97,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/58.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/58.gif"
     },
     {
         "id": 59,
         "identifier": "arcanine",
-        "species_id": 59,
         "height": 19,
         "weight": 1550,
         "base_experience": 194,
-        "order": 98,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/59.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/59.gif"
     },
     {
         "id": 60,
         "identifier": "poliwag",
-        "species_id": 60,
         "height": 6,
         "weight": 124,
         "base_experience": 60,
-        "order": 99,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/60.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/60.gif"
     },
     {
         "id": 61,
         "identifier": "poliwhirl",
-        "species_id": 61,
         "height": 10,
         "weight": 200,
         "base_experience": 135,
-        "order": 100,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/61.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/61.gif"
     },
     {
         "id": 62,
         "identifier": "poliwrath",
-        "species_id": 62,
         "height": 13,
         "weight": 540,
         "base_experience": 255,
-        "order": 101,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/62.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/62.gif"
     },
     {
         "id": 63,
         "identifier": "abra",
-        "species_id": 63,
         "height": 9,
         "weight": 195,
         "base_experience": 62,
-        "order": 103,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/63.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/63.gif"
     },
     {
         "id": 64,
         "identifier": "kadabra",
-        "species_id": 64,
         "height": 13,
         "weight": 565,
         "base_experience": 140,
-        "order": 104,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/64.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/64.gif"
     },
     {
         "id": 65,
         "identifier": "alakazam",
-        "species_id": 65,
         "height": 15,
         "weight": 480,
         "base_experience": 250,
-        "order": 105,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/65.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/65.gif"
     },
     {
         "id": 66,
         "identifier": "machop",
-        "species_id": 66,
         "height": 8,
         "weight": 195,
         "base_experience": 61,
-        "order": 107,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/66.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/66.gif"
     },
     {
         "id": 67,
         "identifier": "machoke",
-        "species_id": 67,
         "height": 15,
         "weight": 705,
         "base_experience": 142,
-        "order": 108,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/67.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/67.gif"
     },
     {
         "id": 68,
         "identifier": "machamp",
-        "species_id": 68,
         "height": 16,
         "weight": 1300,
         "base_experience": 253,
-        "order": 109,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/68.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/68.gif"
     },
     {
         "id": 69,
         "identifier": "bellsprout",
-        "species_id": 69,
         "height": 7,
         "weight": 40,
         "base_experience": 60,
-        "order": 110,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/69.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/69.gif"
     },
     {
         "id": 70,
         "identifier": "weepinbell",
-        "species_id": 70,
         "height": 10,
         "weight": 64,
         "base_experience": 137,
-        "order": 111,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/70.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/70.gif"
     },
     {
         "id": 71,
         "identifier": "victreebel",
-        "species_id": 71,
         "height": 17,
         "weight": 155,
         "base_experience": 221,
-        "order": 112,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/71.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/71.gif"
     },
     {
         "id": 72,
         "identifier": "tentacool",
-        "species_id": 72,
         "height": 9,
         "weight": 455,
         "base_experience": 67,
-        "order": 113,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/72.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/72.gif"
     },
     {
         "id": 73,
         "identifier": "tentacruel",
-        "species_id": 73,
         "height": 16,
         "weight": 550,
         "base_experience": 180,
-        "order": 114,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/73.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/73.gif"
     },
     {
         "id": 74,
         "identifier": "geodude",
-        "species_id": 74,
         "height": 4,
         "weight": 200,
         "base_experience": 60,
-        "order": 115,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/74.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/74.gif"
     },
     {
         "id": 75,
         "identifier": "graveler",
-        "species_id": 75,
         "height": 10,
         "weight": 1050,
         "base_experience": 137,
-        "order": 117,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/75.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/75.gif"
     },
     {
         "id": 76,
         "identifier": "golem",
-        "species_id": 76,
         "height": 14,
         "weight": 3000,
         "base_experience": 223,
-        "order": 119,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/76.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/76.gif"
     },
     {
         "id": 77,
         "identifier": "ponyta",
-        "species_id": 77,
         "height": 10,
         "weight": 300,
         "base_experience": 82,
-        "order": 121,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/77.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/77.gif"
     },
     {
         "id": 78,
         "identifier": "rapidash",
-        "species_id": 78,
         "height": 17,
         "weight": 950,
         "base_experience": 175,
-        "order": 123,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/78.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/78.gif"
     },
     {
         "id": 79,
         "identifier": "slowpoke",
-        "species_id": 79,
         "height": 12,
         "weight": 360,
         "base_experience": 63,
-        "order": 125,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/79.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/79.gif"
     },
     {
         "id": 80,
         "identifier": "slowbro",
-        "species_id": 80,
         "height": 16,
         "weight": 785,
         "base_experience": 172,
-        "order": 127,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/80.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/80.gif"
     },
     {
         "id": 81,
         "identifier": "magnemite",
-        "species_id": 81,
         "height": 3,
         "weight": 60,
         "base_experience": 65,
-        "order": 132,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/81.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/81.gif"
     },
     {
         "id": 82,
         "identifier": "magneton",
-        "species_id": 82,
         "height": 10,
         "weight": 600,
         "base_experience": 163,
-        "order": 133,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/82.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/82.gif"
     },
     {
         "id": 83,
         "identifier": "farfetchd",
-        "species_id": 83,
         "height": 8,
         "weight": 150,
         "base_experience": 132,
-        "order": 135,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/83.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/83.gif"
     },
     {
         "id": 84,
         "identifier": "doduo",
-        "species_id": 84,
         "height": 14,
         "weight": 392,
         "base_experience": 62,
-        "order": 137,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/84.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/84.gif"
     },
     {
         "id": 85,
         "identifier": "dodrio",
-        "species_id": 85,
         "height": 18,
         "weight": 852,
         "base_experience": 165,
-        "order": 138,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/85.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/85.gif"
     },
     {
         "id": 86,
         "identifier": "seel",
-        "species_id": 86,
         "height": 11,
         "weight": 900,
         "base_experience": 65,
-        "order": 139,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/86.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/86.gif"
     },
     {
         "id": 87,
         "identifier": "dewgong",
-        "species_id": 87,
         "height": 17,
         "weight": 1200,
         "base_experience": 166,
-        "order": 140,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/87.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/87.gif"
     },
     {
         "id": 88,
         "identifier": "grimer",
-        "species_id": 88,
         "height": 9,
         "weight": 300,
         "base_experience": 65,
-        "order": 141,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/88.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/88.gif"
     },
     {
         "id": 89,
         "identifier": "muk",
-        "species_id": 89,
         "height": 12,
         "weight": 300,
         "base_experience": 175,
-        "order": 143,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/89.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/89.gif"
     },
     {
         "id": 90,
         "identifier": "shellder",
-        "species_id": 90,
         "height": 3,
         "weight": 40,
         "base_experience": 61,
-        "order": 145,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/90.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/90.gif"
     },
     {
         "id": 91,
         "identifier": "cloyster",
-        "species_id": 91,
         "height": 15,
         "weight": 1325,
         "base_experience": 184,
-        "order": 146,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/91.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/91.gif"
     },
     {
         "id": 92,
         "identifier": "gastly",
-        "species_id": 92,
         "height": 13,
         "weight": 1,
         "base_experience": 62,
-        "order": 147,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/92.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/92.gif"
     },
     {
         "id": 93,
         "identifier": "haunter",
-        "species_id": 93,
         "height": 16,
         "weight": 1,
         "base_experience": 142,
-        "order": 148,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/93.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/93.gif"
     },
     {
         "id": 94,
         "identifier": "gengar",
-        "species_id": 94,
         "height": 15,
         "weight": 405,
         "base_experience": 250,
-        "order": 149,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/94.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/94.gif"
     },
     {
         "id": 95,
         "identifier": "onix",
-        "species_id": 95,
         "height": 88,
         "weight": 2100,
         "base_experience": 77,
-        "order": 151,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/95.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/95.gif"
     },
     {
         "id": 96,
         "identifier": "drowzee",
-        "species_id": 96,
         "height": 10,
         "weight": 324,
         "base_experience": 66,
-        "order": 154,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/96.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/96.gif"
     },
     {
         "id": 97,
         "identifier": "hypno",
-        "species_id": 97,
         "height": 16,
         "weight": 756,
         "base_experience": 169,
-        "order": 155,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/97.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/97.gif"
     },
     {
         "id": 98,
         "identifier": "krabby",
-        "species_id": 98,
         "height": 4,
         "weight": 65,
         "base_experience": 65,
-        "order": 156,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/98.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/98.gif"
     },
     {
         "id": 99,
         "identifier": "kingler",
-        "species_id": 99,
         "height": 13,
         "weight": 600,
         "base_experience": 166,
-        "order": 157,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/99.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/99.gif"
     },
     {
         "id": 100,
         "identifier": "voltorb",
-        "species_id": 100,
         "height": 5,
         "weight": 104,
         "base_experience": 66,
-        "order": 158,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/100.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/100.gif"
     },
     {
         "id": 101,
         "identifier": "electrode",
-        "species_id": 101,
         "height": 12,
         "weight": 666,
         "base_experience": 172,
-        "order": 159,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/101.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/101.gif"
     },
     {
         "id": 102,
         "identifier": "exeggcute",
-        "species_id": 102,
         "height": 4,
         "weight": 25,
         "base_experience": 65,
-        "order": 160,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/102.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/102.gif"
     },
     {
         "id": 103,
         "identifier": "exeggutor",
-        "species_id": 103,
         "height": 20,
         "weight": 1200,
         "base_experience": 186,
-        "order": 161,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/103.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/103.gif"
     },
     {
         "id": 104,
         "identifier": "cubone",
-        "species_id": 104,
         "height": 4,
         "weight": 65,
         "base_experience": 64,
-        "order": 163,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/104.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/104.gif"
     },
     {
         "id": 105,
         "identifier": "marowak",
-        "species_id": 105,
         "height": 10,
         "weight": 450,
         "base_experience": 149,
-        "order": 164,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/105.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/105.gif"
     },
     {
         "id": 106,
         "identifier": "hitmonlee",
-        "species_id": 106,
         "height": 15,
         "weight": 498,
         "base_experience": 159,
-        "order": 168,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/106.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/106.gif"
     },
     {
         "id": 107,
         "identifier": "hitmonchan",
-        "species_id": 107,
         "height": 14,
         "weight": 502,
         "base_experience": 159,
-        "order": 169,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/107.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/107.gif"
     },
     {
         "id": 108,
         "identifier": "lickitung",
-        "species_id": 108,
         "height": 12,
         "weight": 655,
         "base_experience": 77,
-        "order": 171,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/108.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/108.gif"
     },
     {
         "id": 109,
         "identifier": "koffing",
-        "species_id": 109,
         "height": 6,
         "weight": 10,
         "base_experience": 68,
-        "order": 173,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/109.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/109.gif"
     },
     {
         "id": 110,
         "identifier": "weezing",
-        "species_id": 110,
         "height": 12,
         "weight": 95,
         "base_experience": 172,
-        "order": 174,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/110.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/110.gif"
     },
     {
         "id": 111,
         "identifier": "rhyhorn",
-        "species_id": 111,
         "height": 10,
         "weight": 1150,
         "base_experience": 69,
-        "order": 176,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/111.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/111.gif"
     },
     {
         "id": 112,
         "identifier": "rhydon",
-        "species_id": 112,
         "height": 19,
         "weight": 1200,
         "base_experience": 170,
-        "order": 177,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/112.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/112.gif"
     },
     {
         "id": 113,
         "identifier": "chansey",
-        "species_id": 113,
         "height": 11,
         "weight": 346,
         "base_experience": 395,
-        "order": 180,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/113.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/113.gif"
     },
     {
         "id": 114,
         "identifier": "tangela",
-        "species_id": 114,
         "height": 10,
         "weight": 350,
         "base_experience": 87,
-        "order": 182,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/114.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/114.gif"
     },
     {
         "id": 115,
         "identifier": "kangaskhan",
-        "species_id": 115,
         "height": 22,
         "weight": 800,
         "base_experience": 172,
-        "order": 184,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/115.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/115.gif"
     },
     {
         "id": 116,
         "identifier": "horsea",
-        "species_id": 116,
         "height": 4,
         "weight": 80,
         "base_experience": 59,
-        "order": 186,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/116.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/116.gif"
     },
     {
         "id": 117,
         "identifier": "seadra",
-        "species_id": 117,
         "height": 12,
         "weight": 250,
         "base_experience": 154,
-        "order": 187,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/117.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/117.gif"
     },
     {
         "id": 118,
         "identifier": "goldeen",
-        "species_id": 118,
         "height": 6,
         "weight": 150,
         "base_experience": 64,
-        "order": 189,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/118.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/118.gif"
     },
     {
         "id": 119,
         "identifier": "seaking",
-        "species_id": 119,
         "height": 13,
         "weight": 390,
         "base_experience": 158,
-        "order": 190,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/119.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/119.gif"
     },
     {
         "id": 120,
         "identifier": "staryu",
-        "species_id": 120,
         "height": 8,
         "weight": 345,
         "base_experience": 68,
-        "order": 191,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/120.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/120.gif"
     },
     {
         "id": 121,
         "identifier": "starmie",
-        "species_id": 121,
         "height": 11,
         "weight": 800,
         "base_experience": 182,
-        "order": 192,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/121.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/121.gif"
     },
     {
         "id": 122,
         "identifier": "mr-mime",
-        "species_id": 122,
         "height": 13,
         "weight": 545,
         "base_experience": 161,
-        "order": 194,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/122.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/122.gif"
     },
     {
         "id": 123,
         "identifier": "scyther",
-        "species_id": 123,
         "height": 15,
         "weight": 560,
         "base_experience": 100,
-        "order": 196,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/123.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/123.gif"
     },
     {
         "id": 124,
         "identifier": "jynx",
-        "species_id": 124,
         "height": 14,
         "weight": 406,
         "base_experience": 159,
-        "order": 200,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/124.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/124.gif"
     },
     {
         "id": 125,
         "identifier": "electabuzz",
-        "species_id": 125,
         "height": 11,
         "weight": 300,
         "base_experience": 172,
-        "order": 202,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/125.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/125.gif"
     },
     {
         "id": 126,
         "identifier": "magmar",
-        "species_id": 126,
         "height": 13,
         "weight": 445,
         "base_experience": 173,
-        "order": 205,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/126.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/126.gif"
     },
     {
         "id": 127,
         "identifier": "pinsir",
-        "species_id": 127,
         "height": 15,
         "weight": 550,
         "base_experience": 175,
-        "order": 207,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/127.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/127.gif"
     },
     {
         "id": 128,
         "identifier": "tauros",
-        "species_id": 128,
         "height": 14,
         "weight": 884,
         "base_experience": 172,
-        "order": 209,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/128.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/128.gif"
     },
     {
         "id": 129,
         "identifier": "magikarp",
-        "species_id": 129,
         "height": 9,
         "weight": 100,
         "base_experience": 40,
-        "order": 210,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/129.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/129.gif"
     },
     {
         "id": 130,
         "identifier": "gyarados",
-        "species_id": 130,
         "height": 65,
         "weight": 2350,
         "base_experience": 189,
-        "order": 211,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/130.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/130.gif"
     },
     {
         "id": 131,
         "identifier": "lapras",
-        "species_id": 131,
         "height": 25,
         "weight": 2200,
         "base_experience": 187,
-        "order": 213,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/131.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/131.gif"
     },
     {
         "id": 132,
         "identifier": "ditto",
-        "species_id": 132,
         "height": 3,
         "weight": 40,
         "base_experience": 101,
-        "order": 214,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/132.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/132.gif"
     },
     {
         "id": 133,
         "identifier": "eevee",
-        "species_id": 133,
         "height": 3,
         "weight": 65,
         "base_experience": 65,
-        "order": 215,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/133.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/133.gif"
     },
     {
         "id": 134,
         "identifier": "vaporeon",
-        "species_id": 134,
         "height": 10,
         "weight": 290,
         "base_experience": 184,
-        "order": 217,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/134.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/134.gif"
     },
     {
         "id": 135,
         "identifier": "jolteon",
-        "species_id": 135,
         "height": 8,
         "weight": 245,
         "base_experience": 184,
-        "order": 218,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/135.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/135.gif"
     },
     {
         "id": 136,
         "identifier": "flareon",
-        "species_id": 136,
         "height": 9,
         "weight": 250,
         "base_experience": 184,
-        "order": 219,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/136.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/136.gif"
     },
     {
         "id": 137,
         "identifier": "porygon",
-        "species_id": 137,
         "height": 8,
         "weight": 365,
         "base_experience": 79,
-        "order": 225,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/137.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/137.gif"
     },
     {
         "id": 138,
         "identifier": "omanyte",
-        "species_id": 138,
         "height": 4,
         "weight": 75,
         "base_experience": 71,
-        "order": 228,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/138.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/138.gif"
     },
     {
         "id": 139,
         "identifier": "omastar",
-        "species_id": 139,
         "height": 10,
         "weight": 350,
         "base_experience": 173,
-        "order": 229,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/139.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/139.gif"
     },
     {
         "id": 140,
         "identifier": "kabuto",
-        "species_id": 140,
         "height": 5,
         "weight": 115,
         "base_experience": 71,
-        "order": 230,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/140.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/140.gif"
     },
     {
         "id": 141,
         "identifier": "kabutops",
-        "species_id": 141,
         "height": 13,
         "weight": 405,
         "base_experience": 173,
-        "order": 231,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/141.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/141.gif"
     },
     {
         "id": 142,
         "identifier": "aerodactyl",
-        "species_id": 142,
         "height": 18,
         "weight": 590,
         "base_experience": 180,
-        "order": 232,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/142.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/142.gif"
     },
     {
         "id": 143,
         "identifier": "snorlax",
-        "species_id": 143,
         "height": 21,
         "weight": 4600,
         "base_experience": 189,
-        "order": 235,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/143.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/143.gif"
     },
     {
         "id": 144,
         "identifier": "articuno",
-        "species_id": 144,
         "height": 17,
         "weight": 554,
         "base_experience": 290,
-        "order": 236,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/144.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/144.gif"
     },
     {
         "id": 145,
         "identifier": "zapdos",
-        "species_id": 145,
         "height": 16,
         "weight": 526,
         "base_experience": 290,
-        "order": 238,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/145.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/145.gif"
     },
     {
         "id": 146,
         "identifier": "moltres",
-        "species_id": 146,
         "height": 20,
         "weight": 600,
         "base_experience": 290,
-        "order": 240,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/146.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/146.gif"
     },
     {
         "id": 147,
         "identifier": "dratini",
-        "species_id": 147,
         "height": 18,
         "weight": 33,
         "base_experience": 60,
-        "order": 242,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/147.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/147.gif"
     },
     {
         "id": 148,
         "identifier": "dragonair",
-        "species_id": 148,
         "height": 40,
         "weight": 165,
         "base_experience": 147,
-        "order": 243,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/148.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/148.gif"
     },
     {
         "id": 149,
         "identifier": "dragonite",
-        "species_id": 149,
         "height": 22,
         "weight": 2100,
         "base_experience": 300,
-        "order": 244,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/149.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/149.gif"
     },
     {
         "id": 150,
         "identifier": "mewtwo",
-        "species_id": 150,
         "height": 20,
         "weight": 1220,
         "base_experience": 340,
-        "order": 245,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/150.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/150.gif"
     },
     {
         "id": 151,
         "identifier": "mew",
-        "species_id": 151,
         "height": 4,
         "weight": 40,
         "base_experience": 300,
-        "order": 248,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/151.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/151.gif"
     },
     {
         "id": 152,
         "identifier": "chikorita",
-        "species_id": 152,
         "height": 9,
         "weight": 64,
         "base_experience": 64,
-        "order": 249,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/152.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/152.gif"
     },
     {
         "id": 153,
         "identifier": "bayleef",
-        "species_id": 153,
         "height": 12,
         "weight": 158,
         "base_experience": 142,
-        "order": 250,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/153.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/153.gif"
     },
     {
         "id": 154,
         "identifier": "meganium",
-        "species_id": 154,
         "height": 18,
         "weight": 1005,
         "base_experience": 236,
-        "order": 251,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/154.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/154.gif"
     },
     {
         "id": 155,
         "identifier": "cyndaquil",
-        "species_id": 155,
         "height": 5,
         "weight": 79,
         "base_experience": 62,
-        "order": 252,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/155.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/155.gif"
     },
     {
         "id": 156,
         "identifier": "quilava",
-        "species_id": 156,
         "height": 9,
         "weight": 190,
         "base_experience": 142,
-        "order": 253,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/156.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/156.gif"
     },
     {
         "id": 157,
         "identifier": "typhlosion",
-        "species_id": 157,
         "height": 17,
         "weight": 795,
         "base_experience": 240,
-        "order": 254,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/157.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/157.gif"
     },
     {
         "id": 158,
         "identifier": "totodile",
-        "species_id": 158,
         "height": 6,
         "weight": 95,
         "base_experience": 63,
-        "order": 255,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/158.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/158.gif"
     },
     {
         "id": 159,
         "identifier": "croconaw",
-        "species_id": 159,
         "height": 11,
         "weight": 250,
         "base_experience": 142,
-        "order": 256,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/159.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/159.gif"
     },
     {
         "id": 160,
         "identifier": "feraligatr",
-        "species_id": 160,
         "height": 23,
         "weight": 888,
         "base_experience": 239,
-        "order": 257,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/160.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/160.gif"
     },
     {
         "id": 161,
         "identifier": "sentret",
-        "species_id": 161,
         "height": 8,
         "weight": 60,
         "base_experience": 43,
-        "order": 258,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/161.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/161.gif"
     },
     {
         "id": 162,
         "identifier": "furret",
-        "species_id": 162,
         "height": 18,
         "weight": 325,
         "base_experience": 145,
-        "order": 259,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/162.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/162.gif"
     },
     {
         "id": 163,
         "identifier": "hoothoot",
-        "species_id": 163,
         "height": 7,
         "weight": 212,
         "base_experience": 52,
-        "order": 260,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/163.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/163.gif"
     },
     {
         "id": 164,
         "identifier": "noctowl",
-        "species_id": 164,
         "height": 16,
         "weight": 408,
         "base_experience": 158,
-        "order": 261,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/164.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/164.gif"
     },
     {
         "id": 165,
         "identifier": "ledyba",
-        "species_id": 165,
         "height": 10,
         "weight": 108,
         "base_experience": 53,
-        "order": 262,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/165.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/165.gif"
     },
     {
         "id": 166,
         "identifier": "ledian",
-        "species_id": 166,
         "height": 14,
         "weight": 356,
         "base_experience": 137,
-        "order": 263,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/166.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/166.gif"
     },
     {
         "id": 167,
         "identifier": "spinarak",
-        "species_id": 167,
         "height": 5,
         "weight": 85,
         "base_experience": 50,
-        "order": 264,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/167.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/167.gif"
     },
     {
         "id": 168,
         "identifier": "ariados",
-        "species_id": 168,
         "height": 11,
         "weight": 335,
         "base_experience": 140,
-        "order": 265,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/168.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/168.gif"
     },
     {
         "id": 169,
         "identifier": "crobat",
-        "species_id": 169,
         "height": 18,
         "weight": 750,
         "base_experience": 268,
-        "order": 75,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/169.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/169.gif"
     },
     {
         "id": 170,
         "identifier": "chinchou",
-        "species_id": 170,
         "height": 5,
         "weight": 120,
         "base_experience": 66,
-        "order": 266,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/170.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/170.gif"
     },
     {
         "id": 171,
         "identifier": "lanturn",
-        "species_id": 171,
         "height": 12,
         "weight": 225,
         "base_experience": 161,
-        "order": 267,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/171.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/171.gif"
     },
     {
         "id": 172,
         "identifier": "pichu",
-        "species_id": 172,
         "height": 3,
         "weight": 20,
         "base_experience": 41,
-        "order": 34,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/172.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/172.gif"
     },
     {
         "id": 173,
         "identifier": "cleffa",
-        "species_id": 173,
         "height": 3,
         "weight": 30,
         "base_experience": 44,
-        "order": 63,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/173.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/173.gif"
     },
     {
         "id": 174,
         "identifier": "igglybuff",
-        "species_id": 174,
         "height": 3,
         "weight": 10,
         "base_experience": 42,
-        "order": 70,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/174.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/174.gif"
     },
     {
         "id": 175,
         "identifier": "togepi",
-        "species_id": 175,
         "height": 3,
         "weight": 15,
         "base_experience": 49,
-        "order": 268,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/175.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/175.gif"
     },
     {
         "id": 176,
         "identifier": "togetic",
-        "species_id": 176,
         "height": 6,
         "weight": 32,
         "base_experience": 142,
-        "order": 269,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/176.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/176.gif"
     },
     {
         "id": 177,
         "identifier": "natu",
-        "species_id": 177,
         "height": 2,
         "weight": 20,
         "base_experience": 64,
-        "order": 271,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/177.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/177.gif"
     },
     {
         "id": 178,
         "identifier": "xatu",
-        "species_id": 178,
         "height": 15,
         "weight": 150,
         "base_experience": 165,
-        "order": 272,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/178.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/178.gif"
     },
     {
         "id": 179,
         "identifier": "mareep",
-        "species_id": 179,
         "height": 6,
         "weight": 78,
         "base_experience": 56,
-        "order": 273,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/179.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/179.gif"
     },
     {
         "id": 180,
         "identifier": "flaaffy",
-        "species_id": 180,
         "height": 8,
         "weight": 133,
         "base_experience": 128,
-        "order": 274,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/180.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/180.gif"
     },
     {
         "id": 181,
         "identifier": "ampharos",
-        "species_id": 181,
         "height": 14,
         "weight": 615,
         "base_experience": 230,
-        "order": 275,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/181.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/181.gif"
     },
     {
         "id": 182,
         "identifier": "bellossom",
-        "species_id": 182,
         "height": 4,
         "weight": 58,
         "base_experience": 245,
-        "order": 79,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/182.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/182.gif"
     },
     {
         "id": 183,
         "identifier": "marill",
-        "species_id": 183,
         "height": 4,
         "weight": 85,
         "base_experience": 88,
-        "order": 278,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/183.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/183.gif"
     },
     {
         "id": 184,
         "identifier": "azumarill",
-        "species_id": 184,
         "height": 8,
         "weight": 285,
         "base_experience": 210,
-        "order": 279,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/184.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/184.gif"
     },
     {
         "id": 185,
         "identifier": "sudowoodo",
-        "species_id": 185,
         "height": 12,
         "weight": 380,
         "base_experience": 144,
-        "order": 281,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/185.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/185.gif"
     },
     {
         "id": 186,
         "identifier": "politoed",
-        "species_id": 186,
         "height": 11,
         "weight": 339,
         "base_experience": 250,
-        "order": 102,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/186.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/186.gif"
     },
     {
         "id": 187,
         "identifier": "hoppip",
-        "species_id": 187,
         "height": 4,
         "weight": 5,
         "base_experience": 50,
-        "order": 282,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/187.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/187.gif"
     },
     {
         "id": 188,
         "identifier": "skiploom",
-        "species_id": 188,
         "height": 6,
         "weight": 10,
         "base_experience": 119,
-        "order": 283,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/188.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/188.gif"
     },
     {
         "id": 189,
         "identifier": "jumpluff",
-        "species_id": 189,
         "height": 8,
         "weight": 30,
         "base_experience": 207,
-        "order": 284,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/189.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/189.gif"
     },
     {
         "id": 190,
         "identifier": "aipom",
-        "species_id": 190,
         "height": 8,
         "weight": 115,
         "base_experience": 72,
-        "order": 285,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/190.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/190.gif"
     },
     {
         "id": 191,
         "identifier": "sunkern",
-        "species_id": 191,
         "height": 3,
         "weight": 18,
         "base_experience": 36,
-        "order": 287,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/191.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/191.gif"
     },
     {
         "id": 192,
         "identifier": "sunflora",
-        "species_id": 192,
         "height": 8,
         "weight": 85,
         "base_experience": 149,
-        "order": 288,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/192.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/192.gif"
     },
     {
         "id": 193,
         "identifier": "yanma",
-        "species_id": 193,
         "height": 12,
         "weight": 380,
         "base_experience": 78,
-        "order": 289,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/193.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/193.gif"
     },
     {
         "id": 194,
         "identifier": "wooper",
-        "species_id": 194,
         "height": 4,
         "weight": 85,
         "base_experience": 42,
-        "order": 291,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/194.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/194.gif"
     },
     {
         "id": 195,
         "identifier": "quagsire",
-        "species_id": 195,
         "height": 14,
         "weight": 750,
         "base_experience": 151,
-        "order": 292,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/195.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/195.gif"
     },
     {
         "id": 196,
         "identifier": "espeon",
-        "species_id": 196,
         "height": 9,
         "weight": 265,
         "base_experience": 184,
-        "order": 220,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/196.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/196.gif"
     },
     {
         "id": 197,
         "identifier": "umbreon",
-        "species_id": 197,
         "height": 10,
         "weight": 270,
         "base_experience": 184,
-        "order": 221,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/197.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/197.gif"
     },
     {
         "id": 198,
         "identifier": "murkrow",
-        "species_id": 198,
         "height": 5,
         "weight": 21,
         "base_experience": 81,
-        "order": 293,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/198.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/198.gif"
     },
     {
         "id": 199,
         "identifier": "slowking",
-        "species_id": 199,
         "height": 20,
         "weight": 795,
         "base_experience": 172,
-        "order": 130,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/199.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/199.gif"
     },
     {
         "id": 200,
         "identifier": "misdreavus",
-        "species_id": 200,
         "height": 7,
         "weight": 10,
         "base_experience": 87,
-        "order": 295,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/200.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/200.gif"
     },
     {
         "id": 201,
         "identifier": "unown",
-        "species_id": 201,
         "height": 5,
         "weight": 50,
         "base_experience": 118,
-        "order": 297,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/201.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/201.gif"
     },
     {
         "id": 202,
         "identifier": "wobbuffet",
-        "species_id": 202,
         "height": 13,
         "weight": 285,
         "base_experience": 142,
-        "order": 299,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/202.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/202.gif"
     },
     {
         "id": 203,
         "identifier": "girafarig",
-        "species_id": 203,
         "height": 15,
         "weight": 415,
         "base_experience": 159,
-        "order": 300,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/203.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/203.gif"
     },
     {
         "id": 204,
         "identifier": "pineco",
-        "species_id": 204,
         "height": 6,
         "weight": 72,
         "base_experience": 58,
-        "order": 301,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/204.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/204.gif"
     },
     {
         "id": 205,
         "identifier": "forretress",
-        "species_id": 205,
         "height": 12,
         "weight": 1258,
         "base_experience": 163,
-        "order": 302,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/205.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/205.gif"
     },
     {
         "id": 206,
         "identifier": "dunsparce",
-        "species_id": 206,
         "height": 15,
         "weight": 140,
         "base_experience": 145,
-        "order": 303,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/206.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/206.gif"
     },
     {
         "id": 207,
         "identifier": "gligar",
-        "species_id": 207,
         "height": 11,
         "weight": 648,
         "base_experience": 86,
-        "order": 304,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/207.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/207.gif"
     },
     {
         "id": 208,
         "identifier": "steelix",
-        "species_id": 208,
         "height": 92,
         "weight": 4000,
         "base_experience": 179,
-        "order": 152,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/208.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/208.gif"
     },
     {
         "id": 209,
         "identifier": "snubbull",
-        "species_id": 209,
         "height": 6,
         "weight": 78,
         "base_experience": 60,
-        "order": 306,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/209.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/209.gif"
     },
     {
         "id": 210,
         "identifier": "granbull",
-        "species_id": 210,
         "height": 14,
         "weight": 487,
         "base_experience": 158,
-        "order": 307,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/210.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/210.gif"
     },
     {
         "id": 211,
         "identifier": "qwilfish",
-        "species_id": 211,
         "height": 5,
         "weight": 39,
         "base_experience": 88,
-        "order": 308,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/211.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/211.gif"
     },
     {
         "id": 212,
         "identifier": "scizor",
-        "species_id": 212,
         "height": 18,
         "weight": 1180,
         "base_experience": 175,
-        "order": 197,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/212.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/212.gif"
     },
     {
         "id": 213,
         "identifier": "shuckle",
-        "species_id": 213,
         "height": 6,
         "weight": 205,
         "base_experience": 177,
-        "order": 309,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/213.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/213.gif"
     },
     {
         "id": 214,
         "identifier": "heracross",
-        "species_id": 214,
         "height": 15,
         "weight": 540,
         "base_experience": 175,
-        "order": 310,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/214.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/214.gif"
     },
     {
         "id": 215,
         "identifier": "sneasel",
-        "species_id": 215,
         "height": 9,
         "weight": 280,
         "base_experience": 86,
-        "order": 312,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/215.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/215.gif"
     },
     {
         "id": 216,
         "identifier": "teddiursa",
-        "species_id": 216,
         "height": 6,
         "weight": 88,
         "base_experience": 66,
-        "order": 314,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/216.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/216.gif"
     },
     {
         "id": 217,
         "identifier": "ursaring",
-        "species_id": 217,
         "height": 18,
         "weight": 1258,
         "base_experience": 175,
-        "order": 315,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/217.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/217.gif"
     },
     {
         "id": 218,
         "identifier": "slugma",
-        "species_id": 218,
         "height": 7,
         "weight": 350,
         "base_experience": 50,
-        "order": 316,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/218.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/218.gif"
     },
     {
         "id": 219,
         "identifier": "magcargo",
-        "species_id": 219,
         "height": 8,
         "weight": 550,
         "base_experience": 151,
-        "order": 317,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/219.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/219.gif"
     },
     {
         "id": 220,
         "identifier": "swinub",
-        "species_id": 220,
         "height": 4,
         "weight": 65,
         "base_experience": 50,
-        "order": 318,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/220.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/220.gif"
     },
     {
         "id": 221,
         "identifier": "piloswine",
-        "species_id": 221,
         "height": 11,
         "weight": 558,
         "base_experience": 158,
-        "order": 319,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/221.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/221.gif"
     },
     {
         "id": 222,
         "identifier": "corsola",
-        "species_id": 222,
         "height": 6,
         "weight": 50,
         "base_experience": 144,
-        "order": 321,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/222.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/222.gif"
     },
     {
         "id": 223,
         "identifier": "remoraid",
-        "species_id": 223,
         "height": 6,
         "weight": 120,
         "base_experience": 60,
-        "order": 323,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/223.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/223.gif"
     },
     {
         "id": 224,
         "identifier": "octillery",
-        "species_id": 224,
         "height": 9,
         "weight": 285,
         "base_experience": 168,
-        "order": 324,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/224.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/224.gif"
     },
     {
         "id": 225,
         "identifier": "delibird",
-        "species_id": 225,
         "height": 9,
         "weight": 160,
         "base_experience": 116,
-        "order": 325,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/225.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/225.gif"
     },
     {
         "id": 226,
         "identifier": "mantine",
-        "species_id": 226,
         "height": 21,
         "weight": 2200,
         "base_experience": 170,
-        "order": 327,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/226.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/226.gif"
     },
     {
         "id": 227,
         "identifier": "skarmory",
-        "species_id": 227,
         "height": 17,
         "weight": 505,
         "base_experience": 163,
-        "order": 328,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/227.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/227.gif"
     },
     {
         "id": 228,
         "identifier": "houndour",
-        "species_id": 228,
         "height": 6,
         "weight": 108,
         "base_experience": 66,
-        "order": 329,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/228.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/228.gif"
     },
     {
         "id": 229,
         "identifier": "houndoom",
-        "species_id": 229,
         "height": 14,
         "weight": 350,
         "base_experience": 175,
-        "order": 330,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/229.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/229.gif"
     },
     {
         "id": 230,
         "identifier": "kingdra",
-        "species_id": 230,
         "height": 18,
         "weight": 1520,
         "base_experience": 270,
-        "order": 188,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/230.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/230.gif"
     },
     {
         "id": 231,
         "identifier": "phanpy",
-        "species_id": 231,
         "height": 5,
         "weight": 335,
         "base_experience": 66,
-        "order": 332,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/231.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/231.gif"
     },
     {
         "id": 232,
         "identifier": "donphan",
-        "species_id": 232,
         "height": 11,
         "weight": 1200,
         "base_experience": 175,
-        "order": 333,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/232.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/232.gif"
     },
     {
         "id": 233,
         "identifier": "porygon2",
-        "species_id": 233,
         "height": 6,
         "weight": 325,
         "base_experience": 180,
-        "order": 226,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/233.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/233.gif"
     },
     {
         "id": 234,
         "identifier": "stantler",
-        "species_id": 234,
         "height": 14,
         "weight": 712,
         "base_experience": 163,
-        "order": 334,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/234.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/234.gif"
     },
     {
         "id": 235,
         "identifier": "smeargle",
-        "species_id": 235,
         "height": 12,
         "weight": 580,
         "base_experience": 88,
-        "order": 335,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/235.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/235.gif"
     },
     {
         "id": 236,
         "identifier": "tyrogue",
-        "species_id": 236,
         "height": 7,
         "weight": 210,
         "base_experience": 42,
-        "order": 167,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/236.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/236.gif"
     },
     {
         "id": 237,
         "identifier": "hitmontop",
-        "species_id": 237,
         "height": 14,
         "weight": 480,
         "base_experience": 159,
-        "order": 170,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/237.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/237.gif"
     },
     {
         "id": 238,
         "identifier": "smoochum",
-        "species_id": 238,
         "height": 4,
         "weight": 60,
         "base_experience": 61,
-        "order": 199,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/238.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/238.gif"
     },
     {
         "id": 239,
         "identifier": "elekid",
-        "species_id": 239,
         "height": 6,
         "weight": 235,
         "base_experience": 72,
-        "order": 201,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/239.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/239.gif"
     },
     {
         "id": 240,
         "identifier": "magby",
-        "species_id": 240,
         "height": 7,
         "weight": 214,
         "base_experience": 73,
-        "order": 204,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/240.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/240.gif"
     },
     {
         "id": 241,
         "identifier": "miltank",
-        "species_id": 241,
         "height": 12,
         "weight": 755,
         "base_experience": 172,
-        "order": 336,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/241.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/241.gif"
     },
     {
         "id": 242,
         "identifier": "blissey",
-        "species_id": 242,
         "height": 15,
         "weight": 468,
         "base_experience": 635,
-        "order": 181,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/242.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/242.gif"
     },
     {
         "id": 243,
         "identifier": "raikou",
-        "species_id": 243,
         "height": 19,
         "weight": 1780,
         "base_experience": 290,
-        "order": 337,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/243.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/243.gif"
     },
     {
         "id": 244,
         "identifier": "entei",
-        "species_id": 244,
         "height": 21,
         "weight": 1980,
         "base_experience": 290,
-        "order": 338,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/244.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/244.gif"
     },
     {
         "id": 245,
         "identifier": "suicune",
-        "species_id": 245,
         "height": 20,
         "weight": 1870,
         "base_experience": 290,
-        "order": 339,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/245.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/245.gif"
     },
     {
         "id": 246,
         "identifier": "larvitar",
-        "species_id": 246,
         "height": 6,
         "weight": 720,
         "base_experience": 60,
-        "order": 340,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/246.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/246.gif"
     },
     {
         "id": 247,
         "identifier": "pupitar",
-        "species_id": 247,
         "height": 12,
         "weight": 1520,
         "base_experience": 144,
-        "order": 341,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/247.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/247.gif"
     },
     {
         "id": 248,
         "identifier": "tyranitar",
-        "species_id": 248,
         "height": 20,
         "weight": 2020,
         "base_experience": 300,
-        "order": 342,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/248.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/248.gif"
     },
     {
         "id": 249,
         "identifier": "lugia",
-        "species_id": 249,
         "height": 52,
         "weight": 2160,
         "base_experience": 340,
-        "order": 344,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/249.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/249.gif"
     },
     {
         "id": 250,
         "identifier": "ho-oh",
-        "species_id": 250,
         "height": 38,
         "weight": 1990,
         "base_experience": 340,
-        "order": 345,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/250.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/250.gif"
     },
     {
         "id": 251,
         "identifier": "celebi",
-        "species_id": 251,
         "height": 6,
         "weight": 50,
         "base_experience": 300,
-        "order": 346,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/251.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/251.gif"
     },
     {
         "id": 252,
         "identifier": "treecko",
-        "species_id": 252,
         "height": 5,
         "weight": 50,
         "base_experience": 62,
-        "order": 347,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/252.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/252.gif"
     },
     {
         "id": 253,
         "identifier": "grovyle",
-        "species_id": 253,
         "height": 9,
         "weight": 216,
         "base_experience": 142,
-        "order": 348,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/253.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/253.gif"
     },
     {
         "id": 254,
         "identifier": "sceptile",
-        "species_id": 254,
         "height": 17,
         "weight": 522,
         "base_experience": 265,
-        "order": 349,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/254.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/254.gif"
     },
     {
         "id": 255,
         "identifier": "torchic",
-        "species_id": 255,
         "height": 4,
         "weight": 25,
         "base_experience": 62,
-        "order": 351,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/255.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/255.gif"
     },
     {
         "id": 256,
         "identifier": "combusken",
-        "species_id": 256,
         "height": 9,
         "weight": 195,
         "base_experience": 142,
-        "order": 352,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/256.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/256.gif"
     },
     {
         "id": 257,
         "identifier": "blaziken",
-        "species_id": 257,
         "height": 19,
         "weight": 520,
         "base_experience": 265,
-        "order": 353,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/257.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/257.gif"
     },
     {
         "id": 258,
         "identifier": "mudkip",
-        "species_id": 258,
         "height": 4,
         "weight": 76,
         "base_experience": 62,
-        "order": 355,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/258.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/258.gif"
     },
     {
         "id": 259,
         "identifier": "marshtomp",
-        "species_id": 259,
         "height": 7,
         "weight": 280,
         "base_experience": 142,
-        "order": 356,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/259.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/259.gif"
     },
     {
         "id": 260,
         "identifier": "swampert",
-        "species_id": 260,
         "height": 15,
         "weight": 819,
         "base_experience": 268,
-        "order": 357,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/260.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/260.gif"
     },
     {
         "id": 261,
         "identifier": "poochyena",
-        "species_id": 261,
         "height": 5,
         "weight": 136,
         "base_experience": 56,
-        "order": 359,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/261.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/261.gif"
     },
     {
         "id": 262,
         "identifier": "mightyena",
-        "species_id": 262,
         "height": 10,
         "weight": 370,
         "base_experience": 147,
-        "order": 360,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/262.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/262.gif"
     },
     {
         "id": 263,
         "identifier": "zigzagoon",
-        "species_id": 263,
         "height": 4,
         "weight": 175,
         "base_experience": 56,
-        "order": 361,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/263.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/263.gif"
     },
     {
         "id": 264,
         "identifier": "linoone",
-        "species_id": 264,
         "height": 5,
         "weight": 325,
         "base_experience": 147,
-        "order": 363,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/264.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/264.gif"
     },
     {
         "id": 265,
         "identifier": "wurmple",
-        "species_id": 265,
         "height": 3,
         "weight": 36,
         "base_experience": 56,
-        "order": 365,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/265.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/265.gif"
     },
     {
         "id": 266,
         "identifier": "silcoon",
-        "species_id": 266,
         "height": 6,
         "weight": 100,
         "base_experience": 72,
-        "order": 366,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/266.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/266.gif"
     },
     {
         "id": 267,
         "identifier": "beautifly",
-        "species_id": 267,
         "height": 10,
         "weight": 284,
         "base_experience": 178,
-        "order": 367,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/267.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/267.gif"
     },
     {
         "id": 268,
         "identifier": "cascoon",
-        "species_id": 268,
         "height": 7,
         "weight": 115,
         "base_experience": 72,
-        "order": 368,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/268.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/268.gif"
     },
     {
         "id": 269,
         "identifier": "dustox",
-        "species_id": 269,
         "height": 12,
         "weight": 316,
         "base_experience": 173,
-        "order": 369,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/269.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/269.gif"
     },
     {
         "id": 270,
         "identifier": "lotad",
-        "species_id": 270,
         "height": 5,
         "weight": 26,
         "base_experience": 44,
-        "order": 370,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/270.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/270.gif"
     },
     {
         "id": 271,
         "identifier": "lombre",
-        "species_id": 271,
         "height": 12,
         "weight": 325,
         "base_experience": 119,
-        "order": 371,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/271.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/271.gif"
     },
     {
         "id": 272,
         "identifier": "ludicolo",
-        "species_id": 272,
         "height": 15,
         "weight": 550,
         "base_experience": 240,
-        "order": 372,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/272.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/272.gif"
     },
     {
         "id": 273,
         "identifier": "seedot",
-        "species_id": 273,
         "height": 5,
         "weight": 40,
         "base_experience": 44,
-        "order": 373,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/273.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/273.gif"
     },
     {
         "id": 274,
         "identifier": "nuzleaf",
-        "species_id": 274,
         "height": 10,
         "weight": 280,
         "base_experience": 119,
-        "order": 374,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/274.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/274.gif"
     },
     {
         "id": 275,
         "identifier": "shiftry",
-        "species_id": 275,
         "height": 13,
         "weight": 596,
         "base_experience": 240,
-        "order": 375,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/275.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/275.gif"
     },
     {
         "id": 276,
         "identifier": "taillow",
-        "species_id": 276,
         "height": 3,
         "weight": 23,
         "base_experience": 54,
-        "order": 376,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/276.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/276.gif"
     },
     {
         "id": 277,
         "identifier": "swellow",
-        "species_id": 277,
         "height": 7,
         "weight": 198,
         "base_experience": 159,
-        "order": 377,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/277.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/277.gif"
     },
     {
         "id": 278,
         "identifier": "wingull",
-        "species_id": 278,
         "height": 6,
         "weight": 95,
         "base_experience": 54,
-        "order": 378,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/278.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/278.gif"
     },
     {
         "id": 279,
         "identifier": "pelipper",
-        "species_id": 279,
         "height": 12,
         "weight": 280,
         "base_experience": 154,
-        "order": 379,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/279.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/279.gif"
     },
     {
         "id": 280,
         "identifier": "ralts",
-        "species_id": 280,
         "height": 4,
         "weight": 66,
         "base_experience": 40,
-        "order": 380,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/280.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/280.gif"
     },
     {
         "id": 281,
         "identifier": "kirlia",
-        "species_id": 281,
         "height": 8,
         "weight": 202,
         "base_experience": 97,
-        "order": 381,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/281.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/281.gif"
     },
     {
         "id": 282,
         "identifier": "gardevoir",
-        "species_id": 282,
         "height": 16,
         "weight": 484,
         "base_experience": 259,
-        "order": 382,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/282.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/282.gif"
     },
     {
         "id": 283,
         "identifier": "surskit",
-        "species_id": 283,
         "height": 5,
         "weight": 17,
         "base_experience": 54,
-        "order": 386,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/283.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/283.gif"
     },
     {
         "id": 284,
         "identifier": "masquerain",
-        "species_id": 284,
         "height": 8,
         "weight": 36,
         "base_experience": 159,
-        "order": 387,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/284.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/284.gif"
     },
     {
         "id": 285,
         "identifier": "shroomish",
-        "species_id": 285,
         "height": 4,
         "weight": 45,
         "base_experience": 59,
-        "order": 388,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/285.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/285.gif"
     },
     {
         "id": 286,
         "identifier": "breloom",
-        "species_id": 286,
         "height": 12,
         "weight": 392,
         "base_experience": 161,
-        "order": 389,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/286.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/286.gif"
     },
     {
         "id": 287,
         "identifier": "slakoth",
-        "species_id": 287,
         "height": 8,
         "weight": 240,
         "base_experience": 56,
-        "order": 390,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/287.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/287.gif"
     },
     {
         "id": 288,
         "identifier": "vigoroth",
-        "species_id": 288,
         "height": 14,
         "weight": 465,
         "base_experience": 154,
-        "order": 391,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/288.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/288.gif"
     },
     {
         "id": 289,
         "identifier": "slaking",
-        "species_id": 289,
         "height": 20,
         "weight": 1305,
         "base_experience": 252,
-        "order": 392,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/289.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/289.gif"
     },
     {
         "id": 290,
         "identifier": "nincada",
-        "species_id": 290,
         "height": 5,
         "weight": 55,
         "base_experience": 53,
-        "order": 393,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/290.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/290.gif"
     },
     {
         "id": 291,
         "identifier": "ninjask",
-        "species_id": 291,
         "height": 8,
         "weight": 120,
         "base_experience": 160,
-        "order": 394,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/291.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/291.gif"
     },
     {
         "id": 292,
         "identifier": "shedinja",
-        "species_id": 292,
         "height": 8,
         "weight": 12,
         "base_experience": 83,
-        "order": 395,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/292.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/292.gif"
     },
     {
         "id": 293,
         "identifier": "whismur",
-        "species_id": 293,
         "height": 6,
         "weight": 163,
         "base_experience": 48,
-        "order": 396,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/293.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/293.gif"
     },
     {
         "id": 294,
         "identifier": "loudred",
-        "species_id": 294,
         "height": 10,
         "weight": 405,
         "base_experience": 126,
-        "order": 397,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/294.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/294.gif"
     },
     {
         "id": 295,
         "identifier": "exploud",
-        "species_id": 295,
         "height": 15,
         "weight": 840,
         "base_experience": 245,
-        "order": 398,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/295.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/295.gif"
     },
     {
         "id": 296,
         "identifier": "makuhita",
-        "species_id": 296,
         "height": 10,
         "weight": 864,
         "base_experience": 47,
-        "order": 399,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/296.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/296.gif"
     },
     {
         "id": 297,
         "identifier": "hariyama",
-        "species_id": 297,
         "height": 23,
         "weight": 2538,
         "base_experience": 166,
-        "order": 400,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/297.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/297.gif"
     },
     {
         "id": 298,
         "identifier": "azurill",
-        "species_id": 298,
         "height": 2,
         "weight": 20,
         "base_experience": 38,
-        "order": 277,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/298.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/298.gif"
     },
     {
         "id": 299,
         "identifier": "nosepass",
-        "species_id": 299,
         "height": 10,
         "weight": 970,
         "base_experience": 75,
-        "order": 401,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/299.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/299.gif"
     },
     {
         "id": 300,
         "identifier": "skitty",
-        "species_id": 300,
         "height": 6,
         "weight": 110,
         "base_experience": 52,
-        "order": 403,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/300.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/300.gif"
     },
     {
         "id": 301,
         "identifier": "delcatty",
-        "species_id": 301,
         "height": 11,
         "weight": 326,
         "base_experience": 140,
-        "order": 404,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/301.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/301.gif"
     },
     {
         "id": 302,
         "identifier": "sableye",
-        "species_id": 302,
         "height": 5,
         "weight": 110,
         "base_experience": 133,
-        "order": 405,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/302.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/302.gif"
     },
     {
         "id": 303,
         "identifier": "mawile",
-        "species_id": 303,
         "height": 6,
         "weight": 115,
         "base_experience": 133,
-        "order": 407,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/303.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/303.gif"
     },
     {
         "id": 304,
         "identifier": "aron",
-        "species_id": 304,
         "height": 4,
         "weight": 600,
         "base_experience": 66,
-        "order": 409,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/304.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/304.gif"
     },
     {
         "id": 305,
         "identifier": "lairon",
-        "species_id": 305,
         "height": 9,
         "weight": 1200,
         "base_experience": 151,
-        "order": 410,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/305.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/305.gif"
     },
     {
         "id": 306,
         "identifier": "aggron",
-        "species_id": 306,
         "height": 21,
         "weight": 3600,
         "base_experience": 265,
-        "order": 411,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/306.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/306.gif"
     },
     {
         "id": 307,
         "identifier": "meditite",
-        "species_id": 307,
         "height": 6,
         "weight": 112,
         "base_experience": 56,
-        "order": 413,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/307.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/307.gif"
     },
     {
         "id": 308,
         "identifier": "medicham",
-        "species_id": 308,
         "height": 13,
         "weight": 315,
         "base_experience": 144,
-        "order": 414,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/308.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/308.gif"
     },
     {
         "id": 309,
         "identifier": "electrike",
-        "species_id": 309,
         "height": 6,
         "weight": 152,
         "base_experience": 59,
-        "order": 416,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/309.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/309.gif"
     },
     {
         "id": 310,
         "identifier": "manectric",
-        "species_id": 310,
         "height": 15,
         "weight": 402,
         "base_experience": 166,
-        "order": 417,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/310.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/310.gif"
     },
     {
         "id": 311,
         "identifier": "plusle",
-        "species_id": 311,
         "height": 4,
         "weight": 42,
         "base_experience": 142,
-        "order": 419,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/311.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/311.gif"
     },
     {
         "id": 312,
         "identifier": "minun",
-        "species_id": 312,
         "height": 4,
         "weight": 42,
         "base_experience": 142,
-        "order": 420,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/312.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/312.gif"
     },
     {
         "id": 313,
         "identifier": "volbeat",
-        "species_id": 313,
         "height": 7,
         "weight": 177,
         "base_experience": 151,
-        "order": 421,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/313.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/313.gif"
     },
     {
         "id": 314,
         "identifier": "illumise",
-        "species_id": 314,
         "height": 6,
         "weight": 177,
         "base_experience": 151,
-        "order": 422,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/314.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/314.gif"
     },
     {
         "id": 315,
         "identifier": "roselia",
-        "species_id": 315,
         "height": 3,
         "weight": 20,
         "base_experience": 140,
-        "order": 424,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/315.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/315.gif"
     },
     {
         "id": 316,
         "identifier": "gulpin",
-        "species_id": 316,
         "height": 4,
         "weight": 103,
         "base_experience": 60,
-        "order": 426,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/316.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/316.gif"
     },
     {
         "id": 317,
         "identifier": "swalot",
-        "species_id": 317,
         "height": 17,
         "weight": 800,
         "base_experience": 163,
-        "order": 427,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/317.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/317.gif"
     },
     {
         "id": 318,
         "identifier": "carvanha",
-        "species_id": 318,
         "height": 8,
         "weight": 208,
         "base_experience": 61,
-        "order": 428,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/318.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/318.gif"
     },
     {
         "id": 319,
         "identifier": "sharpedo",
-        "species_id": 319,
         "height": 18,
         "weight": 888,
         "base_experience": 161,
-        "order": 429,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/319.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/319.gif"
     },
     {
         "id": 320,
         "identifier": "wailmer",
-        "species_id": 320,
         "height": 20,
         "weight": 1300,
         "base_experience": 80,
-        "order": 431,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/320.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/320.gif"
     },
     {
         "id": 321,
         "identifier": "wailord",
-        "species_id": 321,
         "height": 145,
         "weight": 3980,
         "base_experience": 175,
-        "order": 432,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/321.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/321.gif"
     },
     {
         "id": 322,
         "identifier": "numel",
-        "species_id": 322,
         "height": 7,
         "weight": 240,
         "base_experience": 61,
-        "order": 433,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/322.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/322.gif"
     },
     {
         "id": 323,
         "identifier": "camerupt",
-        "species_id": 323,
         "height": 19,
         "weight": 2200,
         "base_experience": 161,
-        "order": 434,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/323.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/323.gif"
     },
     {
         "id": 324,
         "identifier": "torkoal",
-        "species_id": 324,
         "height": 5,
         "weight": 804,
         "base_experience": 165,
-        "order": 436,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/324.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/324.gif"
     },
     {
         "id": 325,
         "identifier": "spoink",
-        "species_id": 325,
         "height": 7,
         "weight": 306,
         "base_experience": 66,
-        "order": 437,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/325.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/325.gif"
     },
     {
         "id": 326,
         "identifier": "grumpig",
-        "species_id": 326,
         "height": 9,
         "weight": 715,
         "base_experience": 165,
-        "order": 438,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/326.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/326.gif"
     },
     {
         "id": 327,
         "identifier": "spinda",
-        "species_id": 327,
         "height": 11,
         "weight": 50,
         "base_experience": 126,
-        "order": 439,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/327.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/327.gif"
     },
     {
         "id": 328,
         "identifier": "trapinch",
-        "species_id": 328,
         "height": 7,
         "weight": 150,
         "base_experience": 58,
-        "order": 440,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/328.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/328.gif"
     },
     {
         "id": 329,
         "identifier": "vibrava",
-        "species_id": 329,
         "height": 11,
         "weight": 153,
         "base_experience": 119,
-        "order": 441,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/329.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/329.gif"
     },
     {
         "id": 330,
         "identifier": "flygon",
-        "species_id": 330,
         "height": 20,
         "weight": 820,
         "base_experience": 260,
-        "order": 442,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/330.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/330.gif"
     },
     {
         "id": 331,
         "identifier": "cacnea",
-        "species_id": 331,
         "height": 4,
         "weight": 513,
         "base_experience": 67,
-        "order": 443,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/331.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/331.gif"
     },
     {
         "id": 332,
         "identifier": "cacturne",
-        "species_id": 332,
         "height": 13,
         "weight": 774,
         "base_experience": 166,
-        "order": 444,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/332.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/332.gif"
     },
     {
         "id": 333,
         "identifier": "swablu",
-        "species_id": 333,
         "height": 4,
         "weight": 12,
         "base_experience": 62,
-        "order": 445,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/333.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/333.gif"
     },
     {
         "id": 334,
         "identifier": "altaria",
-        "species_id": 334,
         "height": 11,
         "weight": 206,
         "base_experience": 172,
-        "order": 446,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/334.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/334.gif"
     },
     {
         "id": 335,
         "identifier": "zangoose",
-        "species_id": 335,
         "height": 13,
         "weight": 403,
         "base_experience": 160,
-        "order": 448,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/335.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/335.gif"
     },
     {
         "id": 336,
         "identifier": "seviper",
-        "species_id": 336,
         "height": 27,
         "weight": 525,
         "base_experience": 160,
-        "order": 449,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/336.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/336.gif"
     },
     {
         "id": 337,
         "identifier": "lunatone",
-        "species_id": 337,
         "height": 10,
         "weight": 1680,
         "base_experience": 161,
-        "order": 450,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/337.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/337.gif"
     },
     {
         "id": 338,
         "identifier": "solrock",
-        "species_id": 338,
         "height": 12,
         "weight": 1540,
         "base_experience": 161,
-        "order": 451,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/338.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/338.gif"
     },
     {
         "id": 339,
         "identifier": "barboach",
-        "species_id": 339,
         "height": 4,
         "weight": 19,
         "base_experience": 58,
-        "order": 452,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/339.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/339.gif"
     },
     {
         "id": 340,
         "identifier": "whiscash",
-        "species_id": 340,
         "height": 9,
         "weight": 236,
         "base_experience": 164,
-        "order": 453,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/340.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/340.gif"
     },
     {
         "id": 341,
         "identifier": "corphish",
-        "species_id": 341,
         "height": 6,
         "weight": 115,
         "base_experience": 62,
-        "order": 454,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/341.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/341.gif"
     },
     {
         "id": 342,
         "identifier": "crawdaunt",
-        "species_id": 342,
         "height": 11,
         "weight": 328,
         "base_experience": 164,
-        "order": 455,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/342.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/342.gif"
     },
     {
         "id": 343,
         "identifier": "baltoy",
-        "species_id": 343,
         "height": 5,
         "weight": 215,
         "base_experience": 60,
-        "order": 456,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/343.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/343.gif"
     },
     {
         "id": 344,
         "identifier": "claydol",
-        "species_id": 344,
         "height": 15,
         "weight": 1080,
         "base_experience": 175,
-        "order": 457,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/344.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/344.gif"
     },
     {
         "id": 345,
         "identifier": "lileep",
-        "species_id": 345,
         "height": 10,
         "weight": 238,
         "base_experience": 71,
-        "order": 458,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/345.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/345.gif"
     },
     {
         "id": 346,
         "identifier": "cradily",
-        "species_id": 346,
         "height": 15,
         "weight": 604,
         "base_experience": 173,
-        "order": 459,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/346.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/346.gif"
     },
     {
         "id": 347,
         "identifier": "anorith",
-        "species_id": 347,
         "height": 7,
         "weight": 125,
         "base_experience": 71,
-        "order": 460,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/347.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/347.gif"
     },
     {
         "id": 348,
         "identifier": "armaldo",
-        "species_id": 348,
         "height": 15,
         "weight": 682,
         "base_experience": 173,
-        "order": 461,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/348.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/348.gif"
     },
     {
         "id": 349,
         "identifier": "feebas",
-        "species_id": 349,
         "height": 6,
         "weight": 74,
         "base_experience": 40,
-        "order": 462,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/349.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/349.gif"
     },
     {
         "id": 350,
         "identifier": "milotic",
-        "species_id": 350,
         "height": 62,
         "weight": 1620,
         "base_experience": 189,
-        "order": 463,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/350.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/350.gif"
     },
     {
         "id": 351,
         "identifier": "castform",
-        "species_id": 351,
         "height": 3,
         "weight": 8,
         "base_experience": 147,
-        "order": 464,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/351.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/351.gif"
     },
     {
         "id": 352,
         "identifier": "kecleon",
-        "species_id": 352,
         "height": 10,
         "weight": 220,
         "base_experience": 154,
-        "order": 468,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/352.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/352.gif"
     },
     {
         "id": 353,
         "identifier": "shuppet",
-        "species_id": 353,
         "height": 6,
         "weight": 23,
         "base_experience": 59,
-        "order": 469,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/353.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/353.gif"
     },
     {
         "id": 354,
         "identifier": "banette",
-        "species_id": 354,
         "height": 11,
         "weight": 125,
         "base_experience": 159,
-        "order": 470,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/354.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/354.gif"
     },
     {
         "id": 355,
         "identifier": "duskull",
-        "species_id": 355,
         "height": 8,
         "weight": 150,
         "base_experience": 59,
-        "order": 472,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/355.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/355.gif"
     },
     {
         "id": 356,
         "identifier": "dusclops",
-        "species_id": 356,
         "height": 16,
         "weight": 306,
         "base_experience": 159,
-        "order": 473,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/356.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/356.gif"
     },
     {
         "id": 357,
         "identifier": "tropius",
-        "species_id": 357,
         "height": 20,
         "weight": 1000,
         "base_experience": 161,
-        "order": 475,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/357.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/357.gif"
     },
     {
         "id": 358,
         "identifier": "chimecho",
-        "species_id": 358,
         "height": 6,
         "weight": 10,
         "base_experience": 159,
-        "order": 477,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/358.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/358.gif"
     },
     {
         "id": 359,
         "identifier": "absol",
-        "species_id": 359,
         "height": 12,
         "weight": 470,
         "base_experience": 163,
-        "order": 478,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/359.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/359.gif"
     },
     {
         "id": 360,
         "identifier": "wynaut",
-        "species_id": 360,
         "height": 6,
         "weight": 140,
         "base_experience": 52,
-        "order": 298,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/360.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/360.gif"
     },
     {
         "id": 361,
         "identifier": "snorunt",
-        "species_id": 361,
         "height": 7,
         "weight": 168,
         "base_experience": 60,
-        "order": 480,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/361.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/361.gif"
     },
     {
         "id": 362,
         "identifier": "glalie",
-        "species_id": 362,
         "height": 15,
         "weight": 2565,
         "base_experience": 168,
-        "order": 481,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/362.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/362.gif"
     },
     {
         "id": 363,
         "identifier": "spheal",
-        "species_id": 363,
         "height": 8,
         "weight": 395,
         "base_experience": 58,
-        "order": 484,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/363.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/363.gif"
     },
     {
         "id": 364,
         "identifier": "sealeo",
-        "species_id": 364,
         "height": 11,
         "weight": 876,
         "base_experience": 144,
-        "order": 485,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/364.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/364.gif"
     },
     {
         "id": 365,
         "identifier": "walrein",
-        "species_id": 365,
         "height": 14,
         "weight": 1506,
         "base_experience": 265,
-        "order": 486,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/365.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/365.gif"
     },
     {
         "id": 366,
         "identifier": "clamperl",
-        "species_id": 366,
         "height": 4,
         "weight": 525,
         "base_experience": 69,
-        "order": 487,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/366.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/366.gif"
     },
     {
         "id": 367,
         "identifier": "huntail",
-        "species_id": 367,
         "height": 17,
         "weight": 270,
         "base_experience": 170,
-        "order": 488,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/367.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/367.gif"
     },
     {
         "id": 368,
         "identifier": "gorebyss",
-        "species_id": 368,
         "height": 18,
         "weight": 226,
         "base_experience": 170,
-        "order": 489,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/368.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/368.gif"
     },
     {
         "id": 369,
         "identifier": "relicanth",
-        "species_id": 369,
         "height": 10,
         "weight": 234,
         "base_experience": 170,
-        "order": 490,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/369.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/369.gif"
     },
     {
         "id": 370,
         "identifier": "luvdisc",
-        "species_id": 370,
         "height": 6,
         "weight": 87,
         "base_experience": 116,
-        "order": 491,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/370.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/370.gif"
     },
     {
         "id": 371,
         "identifier": "bagon",
-        "species_id": 371,
         "height": 6,
         "weight": 421,
         "base_experience": 60,
-        "order": 492,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/371.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/371.gif"
     },
     {
         "id": 372,
         "identifier": "shelgon",
-        "species_id": 372,
         "height": 11,
         "weight": 1105,
         "base_experience": 147,
-        "order": 493,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/372.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/372.gif"
     },
     {
         "id": 373,
         "identifier": "salamence",
-        "species_id": 373,
         "height": 15,
         "weight": 1026,
         "base_experience": 300,
-        "order": 494,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/373.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/373.gif"
     },
     {
         "id": 374,
         "identifier": "beldum",
-        "species_id": 374,
         "height": 6,
         "weight": 952,
         "base_experience": 60,
-        "order": 496,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/374.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/374.gif"
     },
     {
         "id": 375,
         "identifier": "metang",
-        "species_id": 375,
         "height": 12,
         "weight": 2025,
         "base_experience": 147,
-        "order": 497,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/375.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/375.gif"
     },
     {
         "id": 376,
         "identifier": "metagross",
-        "species_id": 376,
         "height": 16,
         "weight": 5500,
         "base_experience": 300,
-        "order": 498,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/376.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/376.gif"
     },
     {
         "id": 377,
         "identifier": "regirock",
-        "species_id": 377,
         "height": 17,
         "weight": 2300,
         "base_experience": 290,
-        "order": 500,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/377.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/377.gif"
     },
     {
         "id": 378,
         "identifier": "regice",
-        "species_id": 378,
         "height": 18,
         "weight": 1750,
         "base_experience": 290,
-        "order": 501,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/378.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/378.gif"
     },
     {
         "id": 379,
         "identifier": "registeel",
-        "species_id": 379,
         "height": 19,
         "weight": 2050,
         "base_experience": 290,
-        "order": 502,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/379.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/379.gif"
     },
     {
         "id": 380,
         "identifier": "latias",
-        "species_id": 380,
         "height": 14,
         "weight": 400,
         "base_experience": 300,
-        "order": 503,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/380.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/380.gif"
     },
     {
         "id": 381,
         "identifier": "latios",
-        "species_id": 381,
         "height": 20,
         "weight": 600,
         "base_experience": 300,
-        "order": 505,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/381.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/381.gif"
     },
     {
         "id": 382,
         "identifier": "kyogre",
-        "species_id": 382,
         "height": 45,
         "weight": 3520,
         "base_experience": 335,
-        "order": 507,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/382.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/382.gif"
     },
     {
         "id": 383,
         "identifier": "groudon",
-        "species_id": 383,
         "height": 35,
         "weight": 9500,
         "base_experience": 335,
-        "order": 509,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/383.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/383.gif"
     },
     {
         "id": 384,
         "identifier": "rayquaza",
-        "species_id": 384,
         "height": 70,
         "weight": 2065,
         "base_experience": 340,
-        "order": 511,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/384.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/384.gif"
     },
     {
         "id": 385,
         "identifier": "jirachi",
-        "species_id": 385,
         "height": 3,
         "weight": 11,
         "base_experience": 300,
-        "order": 513,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/385.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/385.gif"
     },
     {
         "id": 386,
         "identifier": "deoxys-normal",
-        "species_id": 386,
         "height": 17,
         "weight": 608,
         "base_experience": 270,
-        "order": 514,
-        "is_default": 1
+        "image": "https://d272mprzra2ie.cloudfront.net/386.png",
+        "gif": "https://d272mprzra2ie.cloudfront.net/386.gif"
     }
 ]

@@ -1,4 +1,4 @@
-import express from 'express';
+import express, { json } from 'express';
 import pokemonRoutes from './routes/pokemon';
 import { connect as connectDB } from './utils/database';
 
@@ -10,6 +10,7 @@ const errorHandler = (err: Error, req: express.Request, res: express.Response, n
     res.status(500).send('Something went wrong!');
 };
 
+app.use(json());
 app.use("/pokemon", pokemonRoutes);
 app.use(errorHandler);
 

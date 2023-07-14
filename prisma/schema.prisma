@@ -8,12 +8,32 @@ datasource db {
 }
 
 model pokemon {
-  uuid            String @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  identifier      String @db.String(100)
-  image           String @db.String(100)
-  gif             String @db.String(100)
+  identifier      String          @db.String(100)
+  image           String          @db.String(100)
+  gif             String          @db.String(100)
   height          Int
   weight          Int
   base_experience Int
-  id              Int    @unique
+  id              Int             @id
+  pokemon_types   pokemon_types[] @ignore
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model pokemon_types {
+  uuid       String  @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  slot       Int
+  type_id    Int
+  pokemon_id Int
+  pokemon    pokemon @relation(fields: [pokemon_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@ignore
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model types {
+  uuid            String @id(map: "pokemon_pkey") @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  identifier      String @db.String(100)
+  damage_class_id Int
+  id              Int    @unique(map: "pokemon_id_key")
 }

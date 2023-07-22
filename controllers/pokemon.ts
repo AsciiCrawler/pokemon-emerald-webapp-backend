@@ -1,7 +1,7 @@
 import express from 'express';
 import { db } from '../utils/postgres';
-import { getAll, getAllMinimal, getById } from '../models/pokemon';
-import { Result, body, param, validationResult } from 'express-validator';
+import { getAllMinimal, getById } from '../models/pokemon';
+import { body, param, validationResult } from 'express-validator';
 const router: express.Router = express.Router();
 
 router.get("/get-all", async (req: express.Request, res: express.Response) => {
@@ -80,7 +80,7 @@ router.route("/delete/:id").delete([param("id").isInt()], async (req: express.Re
         res.status(500).send("DB Connection doesn't exists");
         return;
     }
-    
+
     try {
         const id = parseInt(req.params.id);
         const result = await db.query(`DELETE FROM pokemon WHERE id=$1`, [id]);

@@ -67,7 +67,7 @@ export const getAll = async () => {
 
             return arr;
         }, {
-            id: key,
+            id: parseInt(key),
             pokemon_identifier: resultJson[key][0].pokemon_identifier,
             image: resultJson[key][0].image,
             gif: resultJson[key][0].gif,
@@ -90,7 +90,9 @@ export const getAllMinimal = async () => {
     for (const key in pokemons) {
         pokemons[key] = {
             pokemon_identifier: pokemons[key].pokemon_identifier,
-            gif: pokemons[key].gif
+            gif: pokemons[key].gif,
+            type: pokemons[key].type,
+            id: pokemons[key].id
         };
     }
 

@@ -1,77 +1,234 @@
-id,identifier,short_effect
-1,stench,Has a 10% chance of making target Pokémon [flinch]{mechanic:flinch} with each hit.
-2,drizzle,Summons [rain]{mechanic:rain} that lasts indefinitely upon entering battle.
-3,speed-boost,Raises [Speed]{mechanic:speed} one [stage]{mechanic:stat-modifier} after each turn.
-4,battle-armor,Protects against [critical hits]{mechanic:critical-hit}.
-5,sturdy,Prevents being KOed from full [HP]{mechanic:hp}. leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
-6,damp,Prevents []{move:self-destruct}. []{move:explosion}. and []{ability:aftermath} from working while the Pokémon is in battle.
-7,limber,Prevents [paralysis]{mechanic:paralysis}.
-8,sand-veil,Increases [evasion]{mechanic:evasion} to 1.25x during a [sandstorm]{mechanic:sandstorm}.  Protects against sandstorm damage.
-9,static,Has a 30% chance of [paralyzing]{mechanic:paralysis} attacking Pokémon on contact.
-10,volt-absorb,Absorbs []{type:electric} moves. healing for 1/4 max [HP]{mechanic:hp}.
-11,water-absorb,Absorbs []{type:water} moves. healing for 1/4 max [HP]{mechanic:hp}.
-12,oblivious,Prevents [infatuation]{mechanic:infatuation} and protects against []{move:captivate}.
-13,cloud-nine,Negates all effects of [weather]{mechanic:weather}. but does not prevent the weather itself.
-14,compound-eyes,Increases moves' [accuracy]{mechanic:accuracy} to 1.3x.
-15,insomnia,Prevents [sleep]{mechanic:sleep}.
-16,color-change,Changes type to match when hit by a damaging move.
-17,immunity,Prevents [poison]{mechanic:poison}.
-18,flash-fire,Protects against []{type:fire} moves.  Once one has been blocked. the Pokémon's own Fire moves inflict 1.5x damage until it leaves battle.
-19,shield-dust,Protects against incoming moves' extra effects.
-20,own-tempo,Prevents [confusion]{mechanic:confusion}.
-21,suction-cups,Prevents being forced out of battle by other Pokémon's moves.
-22,intimidate,Lowers opponents' [Attack]{mechanic:attack} one [stage]{mechanic:stat-modifier} upon entering battle.
-23,shadow-tag,Prevents opponents from fleeing or switching out.
-24,rough-skin,Damages attacking Pokémon for 1/8 their max [HP]{mechanic:hp} on contact.
-25,wonder-guard,Protects against damaging moves that are not [super effective]{mechanic:super-effective}.
-26,levitate,Evades []{type:ground} moves.
-27,effect-spore,Has a 30% chance of inflcting either [paralysis]{mechanic:paralysis}. [poison]{mechanic:poison}. or [sleep]{mechanic:sleep} on attacking Pokémon on contact.
-28,synchronize,Copies [burns]{mechanic:burn}. [paralysis]{mechanic:paralysis}. and [poison]{mechanic:poison} received onto the Pokémon that inflicted them.
-29,clear-body,Prevents stats from being [lowered]{mechanic:stat-modifier} by other Pokémon.
-30,natural-cure,Cures any [major status ailment]{mechanic:major-status-ailment} upon switching out.
-31,lightning-rod,Redirects single-target []{type:electric} moves to this Pokémon where possible.  Absorbs Electric moves. raising [Special Attack]{mechanic:special-attack} one [stage]{mechanic:stat-modifier}.
-32,serene-grace,Doubles the chance of moves' extra effects occurring.
-33,swift-swim,Doubles [Speed]{mechanic:speed} during [rain]{mechanic:rain}.
-34,chlorophyll,Doubles [Speed]{mechanic:speed} during [strong sunlight]{mechanic:strong-sunlight}.
-35,illuminate,Doubles the wild encounter rate.
-36,trace,Copies an opponent's ability upon entering battle.
-37,huge-power,Doubles [Attack]{mechanic:attack} in battle.
-38,poison-point,Has a 30% chance of [poisoning]{mechanic:poison} attacking Pokémon on contact.
-39,inner-focus,Prevents [flinching]{mechanic:flinching}.
-40,magma-armor,Prevents [freezing]{mechanic:freezing}.
-41,water-veil,Prevents [burns]{mechanic:burn}.
-42,magnet-pull,Prevents []{type:steel} opponents from fleeing or switching out.
-43,soundproof,Protects against sound-based moves.
-44,rain-dish,Heals for 1/16 max [HP]{mechanic:hp} after each turn during [rain]{mechanic:rain}.
-45,sand-stream,Summons a [sandstorm]{mechanic:sandstorm} that lasts indefinitely upon entering battle.
-46,pressure,Increases the [PP]{mechanic:pp} cost of moves targetting the Pokémon by one.
-47,thick-fat,Halves damage from []{type:fire} and []{type:ice} moves.
-48,early-bird,Makes [sleep]{mechanic:sleep} pass twice as quickly.
-49,flame-body,Has a 30% chance of [burning]{mechanic:burn} attacking Pokémon on contact.
-50,run-away,Ensures success fleeing from wild battles.
-51,keen-eye,Prevents [accuracy]{mechanic:accuracy} from being [lowered]{mechanic:stat-modifier}.
-52,hyper-cutter,Prevents [Attack]{mechanic:attack} from being [lowered]{mechanic:stat-modifiers} by other Pokémon.
-53,pickup,Picks up other Pokémon's used and [Flung]{move:fling} held items.  May also pick up an item after battle.
-54,truant,Skips every second turn.
-55,hustle,Strengthens physical moves to inflict 1.5x damage. but decreases their [accuracy]{mechanic:accuracy} to 0.8x.
-56,cute-charm,Has a 30% chance of [infatuating]{mechanic:infatuation} attacking Pokémon on contact.
-57,plus,Increases [Special Attack]{mechanic:special-attack} to 1.5x when a friendly Pokémon has []{ability:plus} or []{ability:minus}.
-58,minus,Increases [Special Attack]{mechanic:special-attack} to 1.5x when a friendly Pokémon has []{ability:plus} or []{ability:minus}.
-59,forecast,Changes []{pokemon:castform}'s type and form to match the [weather]{mechanic:weather}.
-60,sticky-hold,Prevents a held item from being removed by other Pokémon.
-61,shed-skin,Has a 33% chance of curing any [major status ailment]{mechanic:major-status-ailment} after each turn.
-62,guts,Increases [Attack]{mechanic:attack} to 1.5x with a [major status ailment]{mechanic:major-status-ailment}.
-63,marvel-scale,Increases [Defense]{mechanic:defense} to 1.5x with a [major status ailment]{mechanic:major-status-ailment}.
-64,liquid-ooze,Damages opponents using leeching moves for as much as they would heal.
-65,overgrow,Strengthens []{type:grass} moves to inflict 1.5x damage at 1/3 max [HP]{mechanic:hp} or less.
-66,blaze,Strengthens []{type:fire} moves to inflict 1.5x damage at 1/3 max [HP]{mechanic:hp} or less.
-67,torrent,Strengthens []{type:water} moves to inflict 1.5x damage at 1/3 max [HP]{mechanic:hp} or less.
-68,swarm,Strengthens []{type:bug} moves to inflict 1.5x damage at 1/3 max [HP]{mechanic:hp} or less.
-69,rock-head,Protects against recoil damage.
-70,drought,Summons [strong sunlight]{mechanic:strong-sunlight} that lasts indefinitely upon entering battle.
-71,arena-trap,Prevents opponents from fleeing or switching out.  Eluded by []{type:flying}-types and Pokémon in the air.
-72,vital-spirit,Prevents [sleep]{mechanic:sleep}.
-73,white-smoke,Prevents stats from being [lowered]{mechanic:stat-modifier} by other Pokémon.
-74,pure-power,Doubles [Attack]{mechanic:attack} in battle.
-75,shell-armor,Protects against [critical hits]{mechanic:critical-hit}.
-76,air-lock,Negates all effects of [weather]{mechanic:weather}. but does not prevent the weather itself.
+ability_id,short_effect,identifier
+1,Has a 10% chance of making target Pokémon [flinch]{mechanic:flinch} with each hit.,stench
+2,Summons [rain]{mechanic:rain} that lasts indefinitely upon entering battle.,drizzle
+3,Raises [Speed]{mechanic:speed} one [stage]{mechanic:stat-modifier} after each turn.,speed-boost
+4,Protects against [critical hits]{mechanic:critical-hit}.,battle-armor
+5,Prevents being KOed from full [HP]{mechanic:hp}. leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.,sturdy
+6,Prevents []{move:self-destruct}. []{move:explosion}. and []{ability:aftermath} from working while the Pokémon is in battle.,damp
+7,Prevents [paralysis]{mechanic:paralysis}.,limber
+8,Increases [evasion]{mechanic:evasion} to 1.25× during a [sandstorm]{mechanic:sandstorm}.  Protects against sandstorm damage.,sand-veil
+9,Has a 30% chance of [paralyzing]{mechanic:paralysis} attacking Pokémon on contact.,static
+10,Absorbs []{type:electric} moves. healing for 1/4 max [HP]{mechanic:hp}.,volt-absorb
+11,Absorbs []{type:water} moves. healing for 1/4 max [HP]{mechanic:hp}.,water-absorb
+12,Prevents [infatuation]{mechanic:infatuation} and protects against []{move:captivate}.,oblivious
+13,Negates all effects of [weather]{mechanic:weather}. but does not prevent the weather itself.,cloud-nine
+14,Increases moves' [accuracy]{mechanic:accuracy} to 1.3×.,compound-eyes
+15,Prevents [sleep]{mechanic:sleep}.,insomnia
+16,Changes type to match when hit by a damaging move.,color-change
+17,Prevents [poison]{mechanic:poison}.,immunity
+18,Protects against []{type:fire} moves.  Once one has been blocked. the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.,flash-fire
+19,Protects against incoming moves' extra effects.,shield-dust
+20,Prevents [confusion]{mechanic:confusion}.,own-tempo
+21,Prevents being forced out of battle by other Pokémon's moves.,suction-cups
+22,Lowers opponents' [Attack]{mechanic:attack} one [stage]{mechanic:stat-modifier} upon entering battle.,intimidate
+23,Prevents opponents from fleeing or switching out.,shadow-tag
+24,Damages attacking Pokémon for 1/8 their max [HP]{mechanic:hp} on contact.,rough-skin
+25,Protects against damaging moves that are not [super effective]{mechanic:super-effective}.,wonder-guard
+26,Evades []{type:ground} moves.,levitate
+27,Has a 30% chance of inflcting either [paralysis]{mechanic:paralysis}. [poison]{mechanic:poison}. or [sleep]{mechanic:sleep} on attacking Pokémon on contact.,effect-spore
+28,Copies [burns]{mechanic:burn}. [paralysis]{mechanic:paralysis}. and [poison]{mechanic:poison} received onto the Pokémon that inflicted them.,synchronize
+29,Prevents stats from being [lowered]{mechanic:stat-modifier} by other Pokémon.,clear-body
+30,Cures any [major status ailment]{mechanic:major-status-ailment} upon switching out.,natural-cure
+31,Redirects single-target []{type:electric} moves to this Pokémon where possible.  Absorbs Electric moves. raising [Special Attack]{mechanic:special-attack} one [stage]{mechanic:stat-modifier}.,lightning-rod
+32,Doubles the chance of moves' extra effects occurring.,serene-grace
+33,Doubles [Speed]{mechanic:speed} during [rain]{mechanic:rain}.,swift-swim
+34,Doubles [Speed]{mechanic:speed} during [strong sunlight]{mechanic:strong-sunlight}.,chlorophyll
+35,Doubles the wild encounter rate.,illuminate
+36,Copies an opponent's ability upon entering battle.,trace
+37,Doubles [Attack]{mechanic:attack} in battle.,huge-power
+38,Has a 30% chance of [poisoning]{mechanic:poison} attacking Pokémon on contact.,poison-point
+39,Prevents [flinching]{mechanic:flinching}.,inner-focus
+40,Prevents [freezing]{mechanic:freezing}.,magma-armor
+41,Prevents [burns]{mechanic:burn}.,water-veil
+42,Prevents []{type:steel} opponents from fleeing or switching out.,magnet-pull
+43,Protects against sound-based moves.,soundproof
+44,Heals for 1/16 max [HP]{mechanic:hp} after each turn during [rain]{mechanic:rain}.,rain-dish
+45,Summons a [sandstorm]{mechanic:sandstorm} that lasts indefinitely upon entering battle.,sand-stream
+46,Increases the [PP]{mechanic:pp} cost of moves targetting the Pokémon by one.,pressure
+47,Halves damage from []{type:fire} and []{type:ice} moves.,thick-fat
+48,Makes [sleep]{mechanic:sleep} pass twice as quickly.,early-bird
+49,Has a 30% chance of [burning]{mechanic:burn} attacking Pokémon on contact.,flame-body
+50,Ensures success fleeing from wild battles.,run-away
+51,Prevents [accuracy]{mechanic:accuracy} from being [lowered]{mechanic:stat-modifier}.,keen-eye
+52,Prevents [Attack]{mechanic:attack} from being [lowered]{mechanic:stat-modifiers} by other Pokémon.,hyper-cutter
+53,Picks up other Pokémon's used and [Flung]{move:fling} held items.  May also pick up an item after battle.,pickup
+54,Skips every second turn.,truant
+55,Strengthens physical moves to inflict 1.5× damage. but decreases their [accuracy]{mechanic:accuracy} to 0.8×.,hustle
+56,Has a 30% chance of [infatuating]{mechanic:infatuation} attacking Pokémon on contact.,cute-charm
+57,Increases [Special Attack]{mechanic:special-attack} to 1.5× when a friendly Pokémon has []{ability:plus} or []{ability:minus}.,plus
+58,Increases [Special Attack]{mechanic:special-attack} to 1.5× when a friendly Pokémon has []{ability:plus} or []{ability:minus}.,minus
+59,Changes []{pokemon:castform}'s type and form to match the [weather]{mechanic:weather}.,forecast
+60,Prevents a held item from being removed by other Pokémon.,sticky-hold
+61,Has a 33% chance of curing any [major status ailment]{mechanic:major-status-ailment} after each turn.,shed-skin
+62,Increases [Attack]{mechanic:attack} to 1.5× with a [major status ailment]{mechanic:major-status-ailment}.,guts
+63,Increases [Defense]{mechanic:defense} to 1.5× with a [major status ailment]{mechanic:major-status-ailment}.,marvel-scale
+64,Damages opponents using leeching moves for as much as they would heal.,liquid-ooze
+65,Strengthens []{type:grass} moves to inflict 1.5× damage at 1/3 max [HP]{mechanic:hp} or less.,overgrow
+66,Strengthens []{type:fire} moves to inflict 1.5× damage at 1/3 max [HP]{mechanic:hp} or less.,blaze
+67,Strengthens []{type:water} moves to inflict 1.5× damage at 1/3 max [HP]{mechanic:hp} or less.,torrent
+68,Strengthens []{type:bug} moves to inflict 1.5× damage at 1/3 max [HP]{mechanic:hp} or less.,swarm
+69,Protects against recoil damage.,rock-head
+70,Summons [strong sunlight]{mechanic:strong-sunlight} that lasts indefinitely upon entering battle.,drought
+71,Prevents opponents from fleeing or switching out.  Eluded by []{type:flying}-types and Pokémon in the air.,arena-trap
+72,Prevents [sleep]{mechanic:sleep}.,vital-spirit
+73,Prevents stats from being [lowered]{mechanic:stat-modifier} by other Pokémon.,white-smoke
+74,Doubles [Attack]{mechanic:attack} in battle.,pure-power
+75,Protects against [critical hits]{mechanic:critical-hit}.,shell-armor
+76,Negates all effects of [weather]{mechanic:weather}. but does not prevent the weather itself.,air-lock
+77,Doubles [evasion]{mechanic:evasion} when [confused]{mechanic:confusion}.,tangled-feet
+78,Absorbs []{type:electric} moves. raising [Speed]{mechanic:speed} one [stage]{mechanic:stat-modifier}.,motor-drive
+79,Increases damage inflicted to 1.25× against Pokémon of the same gender. but decreases damage to 0.75× against the opposite gender.,rivalry
+80,Raises [Speed]{mechanic:speed} one [stage]{mechanic:stat-modifier} upon [flinching]{mechanic:flinching}.,steadfast
+81,Increases evasion to 1.25× during [hail]{mechanic:hail}.  Protects against hail damage.,snow-cloak
+82,Makes the Pokémon eat any held Berry triggered by low [HP]{mechanic:hp} below 1/2 its max HP.,gluttony
+83,Raises [Attack]{mechanic:attack} to the maximum of six [stages]{mechanic:stat-modifier} upon receiving a [critical hit]{mechanic:critical-hit}.,anger-point
+84,Doubles [Speed]{mechanic:speed} upon using or losing a held item.,unburden
+85,Halves damage from []{type:fire} moves and [burns]{mechanic:burn}.,heatproof
+86,Doubles the Pokémon's [stat modifiers]{mechanic:stat-modifiers}.  These doubled modifiers are still capped at -6 or 6 stages.,simple
+87,Causes 1/8 max [HP]{mechanic:hp} in damage each turn during [strong sunlight]{mechanic:strong-sunlight}. but heals for 1/8 max HP during [rain]{mechanic:rain}.  Increases damage from []{type:fire} moves to 1.25×. but absorbs []{type:water} moves. healing for 1/4 max HP.,dry-skin
+88,Raises the attack stat corresponding to the opponents' weaker defense one [stage]{mechanic:stat-modifier} upon entering battle.,download
+89,Strengthens punch-based moves to 1.2× their power.,iron-fist
+90,Heals for 1/8 max [HP]{mechanic:hp} after each turn when [poisoned]{mechanic:poison} in place of damage.,poison-heal
+91,Increases the [same-type attack bonus]{mechanic:same-type-attack-bonus} from 1.5× to 2×.,adaptability
+92,Extends two-to-five-hit moves and []{move:triple-kick} to their full length every time.,skill-link
+93,Cures any [major status ailment]{mechanic:major-status-ailment} after each turn during [rain]{mechanic:rain}.,hydration
+94,Increases [Special Attack]{mechanic:special-attack} to 1.5× but costs 1/8 max [HP]{mechanic:hp} after each turn during [strong sunlight]{mechanic:strong-sunlight}.,solar-power
+95,Increases [Speed]{mechanic:speed} to 1.5× with a [major status ailment]{mechanic:major-status-ailment}.,quick-feet
+96,Makes the Pokémon's moves all act []{type:normal}-type.,normalize
+97,Strengthens [critical hits]{mechanic:critical-hit} to inflict 3× damage rather than 2×.,sniper
+98,Protects against damage not directly caused by a move.,magic-guard
+99,Ensures all moves used by and against the Pokémon hit.,no-guard
+100,Makes the Pokémon move last within its move's priority bracket.,stall
+101,Strengthens moves of 60 base power or less to 1.5× their power.,technician
+102,Protects against [major status ailments]{mechanic:major-status-ailments} during [strong sunlight]{mechanic:strong-sunlight}.,leaf-guard
+103,Prevents the Pokémon from using its held item in battle.,klutz
+104,Bypasses targets' abilities if they could hinder or prevent a move.,mold-breaker
+105,Raises moves' [critical hit]{mechanic:critical-hit} rates one stage.,super-luck
+106,Damages the attacker for 1/4 its max [HP]{mechanic:hp} when knocked out by a contact move.,aftermath
+107,Notifies all trainers upon entering battle if an opponent has a [super-effective]{mechanic:super-effective} move. []{move:self-destruct}. []{move:explosion}. or a one-hit KO move.,anticipation
+108,Reveals the opponents' strongest move upon entering battle.,forewarn
+109,Ignores other Pokémon's stat modifiers for damage and accuracy calculation.,unaware
+110,Doubles damage inflicted with [not-very-effective]{mechanic:not-very-effective} moves.,tinted-lens
+111,Decreases damage taken from [super-effective]{mechanic:super-effective} moves by 1/4.,filter
+112,Halves [Attack]{mechanic:attack} and [Speed]{mechanic:speed} for five turns upon entering battle.,slow-start
+113,Lets the Pokémon's []{type:normal} and []{type:fighting} moves hit []{type:ghost} Pokémon.,scrappy
+114,Redirects single-target []{type:water} moves to this Pokémon where possible.  Absorbs Water moves. raising [Special Attack]{mechanic:special-attack} one [stage]{mechanic:stat-modifier}.,storm-drain
+115,Heals for 1/16 max [HP]{mechanic:hp} after each turn during hail.  Protects against hail damage.,ice-body
+116,Decreases damage taken from [super-effective]{mechanic:super-effective} moves by 1/4.,solid-rock
+117,Summons [hail]{mechanic:hail} that lasts indefinitely upon entering battle.,snow-warning
+118,The Pokémon may pick up []{item:honey} after battle.,honey-gather
+119,Reveals an opponent's held item upon entering battle.,frisk
+120,Strengthens recoil moves to 1.2× their power.,reckless
+121,Changes []{pokemon:arceus}'s type and form to match its held Plate.,multitype
+122,Increases friendly Pokémon's [Attack]{mechanic:attack} and [Special Defense]{mechanic:special-defense} to 1.5× during [strong sunlight]{mechanic:strong-sunlight}.,flower-gift
+123,Damages [sleeping]{mechanic:sleep} opponents for 1/8 their max [HP]{mechanic:hp} after each turn.,bad-dreams
+124,Steals attacking Pokémon's held items on contact.,pickpocket
+125,Strengthens moves with extra effects to 1.3× their power. but prevents their extra effects.,sheer-force
+126,Inverts [stat changes]{mechanic:stat-modifiers}.,contrary
+127,Prevents opposing Pokémon from eating held Berries.,unnerve
+128,Raises [Attack]{mechanic:attack} two [stages]{mechanic:stat-modifier} upon having any stat lowered.,defiant
+129,Halves [Attack]{mechanic:attack} and [Special Attack]{mechanic:special-attack} at 50% max [HP]{mechanic:hp} or less.,defeatist
+130,Has a 30% chance of [Disabling]{move:disable} any move that hits the Pokémon.,cursed-body
+131,Has a 30% chance of curing each adjacent ally of any [major status ailment]{mechanic:major-status-ailment} after each turn.,healer
+132,Decreases all direct damage taken by friendly Pokémon to 0.75×.,friend-guard
+133,Raises [Speed]{mechanic:speed} and lowers [Defense]{mechanic:defense} by one stage each upon being hit by a physical move.,weak-armor
+134,Doubles the Pokémon's weight.,heavy-metal
+135,Halves the Pokémon's weight.,light-metal
+136,Halves damage taken from full [HP]{mechanic:hp}.,multiscale
+137,Increases [Attack]{mechanic:attack} to 1.5× when [poisoned]{mechanic:poison}.,toxic-boost
+138,Increases [Special Attack]{mechanic:special-attack} to 1.5× when [burned]{mechanic:burn}.,flare-boost
+139,Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.,harvest
+140,Protects against friendly Pokémon's damaging moves.,telepathy
+141,Raises a random stat two [stages]{mechanic:stat-modifier} and lowers another one stage after each turn.,moody
+142,Protects against damage from [weather]{mechanic:weather}.,overcoat
+143,Has a 30% chance of [poisoning]{mechanic:poison} target Pokémon upon contact.,poison-touch
+144,Heals for 1/3 max [HP]{mechanic:hp} upon switching out.,regenerator
+145,Protects against [Defense]{mechanic:defense} drops.,big-pecks
+146,Doubles [Speed]{mechanic:speed} during a [sandstorm]{mechanic:sandstorm}.  Protects against sandstorm damage.,sand-rush
+147,Lowers incoming non-damaging moves' base [accuracy]{mechanic:accuracy} to exactly 50%.,wonder-skin
+148,Strengthens moves to 1.3× their power when moving last.,analytic
+149,Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.,illusion
+150,[Transforms]{move:transform} upon entering battle.,imposter
+151,Bypasses []{move:light-screen}. []{move:reflect}. and []{move:safeguard}.,infiltrator
+152,Changes attacking Pokémon's abilities to Mummy on contact.,mummy
+153,Raises [Attack]{mechanic:attack} one stage upon KOing a Pokémon.,moxie
+154,Raises [Attack]{mechanic:attack} one stage upon taking damage from a []{type:dark} move.,justified
+155,Raises [Speed]{mechanic:speed} one [stage]{mechanic:stat-modifier} upon being hit by a []{type:dark}. []{type:ghost}. or []{type:bug} move.,rattled
+156,Reflects most non-damaging moves back at their user.,magic-bounce
+157,Absorbs []{type:grass} moves. raising [Attack]{mechanic:attack} one [stage]{mechanic:stat-modifier}.,sap-sipper
+158,Raises non-damaging moves' priority by one stage.,prankster
+159,Strengthens []{type:rock}. []{type:ground}. and []{type:steel} moves to 1.3× their power during a [sandstorm]{mechanic:sandstorm}.  Protects against sandstorm damage.,sand-force
+160,Damages attacking Pokémon for 1/8 their max [HP]{mechanic:hp} on contact.,iron-barbs
+161,Changes []{pokemon:darmanitan}'s form after each turn depending on its [HP]{mechanic:hp}: Zen Mode below 50% max HP. and Standard Mode otherwise.,zen-mode
+162,Increases moves' accuracy to 1.1× for friendly Pokémon.,victory-star
+163,Bypasses targets' abilities if they could hinder or prevent moves.,turboblaze
+164,Bypasses targets' abilities if they could hinder or prevent moves.,teravolt
+165,Protects allies against moves that affect their mental state.,aroma-veil
+166,Protects friendly []{type:grass} Pokémon from having their stats lowered by other Pokémon.,flower-veil
+167,Restores HP upon eating a Berry. in addition to the Berry's effect.,cheek-pouch
+168,Changes the bearer's type to match each move it uses.,protean
+169,Halves damage from physical attacks.,fur-coat
+170,Steals the target's held item when the bearer uses a damaging move.,magician
+171,Protects against bullet. ball. and bomb-based moves.,bulletproof
+172,Raises Special Attack by two stages upon having any stat lowered.,competitive
+173,Strengthens biting moves to 1.5× their power.,strong-jaw
+174,Turns the bearer's []{type:normal} moves into []{type:ice} moves and strengthens them to 1.3× their power.,refrigerate
+175,Prevents friendly Pokémon from sleeping.,sweet-veil
+176,Changes []{pokemon:aegislash} to Blade Forme before using a damaging move. or Shield Forme before using []{move:kings-shield}.,stance-change
+177,Raises []{type:flying} moves' priority by one stage.,gale-wings
+178,Strengthens aura and pulse moves to 1.5× their power.,mega-launcher
+179,Boosts Defense while []{move:grassy-terrain} is in effect.,grass-pelt
+180,Passes the bearer's held item to an ally when the ally uses up its item.,symbiosis
+181,Strengthens moves that make contact to 1.33× their power.,tough-claws
+182,Turns the bearer's []{type:normal} moves into []{type:fairy} moves and strengthens them to 1.3× their power.,pixilate
+183,Lowers attacking Pokémon's Speed by one stage on contact.,gooey
+184,Turns the bearer's []{type:normal} moves into []{type:flying} moves and strengthens them to 1.3× their power.,aerilate
+185,Lets the bearer hit twice with damaging moves.  The second hit has half power.,parental-bond
+186,Strengthens []{type:dark} moves to 1.33× their power for all friendly and opposing Pokémon.,dark-aura
+187,Strengthens []{type:fairy} moves to 1.33× their power for all friendly and opposing Pokémon.,fairy-aura
+188,Makes []{ability:dark-aura} and []{ability:fairy-aura} weaken moves of their respective types.,aura-break
+189,Creates heavy rain. which has all the properties of Rain Dance. cannot be replaced. and causes damaging Fire moves to fail.,primordial-sea
+190,Creates extremely harsh sunlight. which has all the properties of Sunny Day. cannot be replaced. and causes damaging Water moves to fail.,desolate-land
+191,Creates a mysterious air current. which cannot be replaced and causes moves to never be super effective against Flying Pokémon.,delta-stream
+192,Raises this Pokémon's Defense by one stage when it takes damage from a move.,stamina
+193,This Pokémon automatically switches out when its HP drops below half.,wimp-out
+194,This Pokémon automatically switches out when its HP drops below half.,emergency-exit
+195,Raises this Pokémon's Defense by two stages when it's hit by a Water move.,water-compaction
+196,This Pokémon's moves critical hit against poisoned targets.,merciless
+197,Transforms this Minior between Core Form and Meteor Form.  Prevents major status ailments and drowsiness while in Meteor Form.,shields-down
+198,This Pokémon's moves have double power against Pokémon that switched in this turn.,stakeout
+199,Halves damage from Fire moves. doubles damage of Water moves. and prevents burns.,water-bubble
+200,This Pokémon's Steel moves have 1.5× power.,steelworker
+201,Raises this Pokémon's Special Attack by one stage every time its HP drops below half.,berserk
+202,During Hail. this Pokémon has double Speed.,slush-rush
+203,This Pokémon's moves do not make contact.,long-reach
+204,Sound-based moves become Water-type.,liquid-voice
+205,This Pokémon's healing moves have their priority increased by 3.,triage
+206,This Pokémon's Normal moves are Electric and have their power increased to 1.2×.,galvanize
+207,Doubles this Pokémon's Speed on Electric Terrain.,surge-surfer
+208,Wishiwashi becomes Schooling Form when its HP is 25% or higher.,schooling
+209,Prevents the first instance of battle damage.,disguise
+210,Transforms this Pokémon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.,battle-bond
+211,Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.,power-construct
+212,This Pokémon can inflict poison on Poison and Steel Pokémon.,corrosion
+213,This Pokémon always  acts as though it were Asleep.,comatose
+214,Opposing Pokémon cannot use priority attacks.,queenly-majesty
+215,When this Pokémon faints from an opponent's move. that opponent takes damage equal to the HP this Pokémon had remaining.,innards-out
+216,Whenever another Pokémon uses a dance move. this Pokémon will use the same move immediately afterwards.,dancer
+217,Ally Pokémon's moves have their power increased to 1.3×.,battery
+218,Damage from contact moves is halved.  Damage from Fire moves is doubled.,fluffy
+219,Opposing Pokémon cannot use priority attacks.,dazzling
+220,This Pokémon's Special Attack rises by one stage every time any Pokémon faints.,soul-heart
+221,When this Pokémon takes regular damage from a contact move. the attacking Pokémon's Speed lowers by one stage.,tangling-hair
+222,When an ally faints. this Pokémon gains its Ability.,receiver
+223,When an ally faints. this Pokémon gains its Ability.,power-of-alchemy
+224,Raises this Pokémon's highest stat by one stage when it faints another Pokémon.,beast-boost
+225,Changes this Pokémon's type to match its held Memory.,rks-system
+226,When this Pokémon enters battle. it changes the terrain to Electric Terrain.,electric-surge
+227,When this Pokémon enters battle. it changes the terrain to Psychic Terrain.,psychic-surge
+228,When this Pokémon enters battle. it changes the terrain to Misty Terrain.,misty-surge
+229,When this Pokémon enters battle. it changes the terrain to Grassy Terrain.,grassy-surge
+230,Other Pokémon cannot lower this Pokémon's stats.,full-metal-body
+231,When this Pokémon has full HP. regular damage from moves is halved.,shadow-shield
+232,Reduces super-effective damage to 0.75×.,prism-armor
+233,Increases super-effective damage dealt to 1.25×.,neuroforce

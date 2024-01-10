@@ -8,8 +8,6 @@ Pokemon Emerald Webapp
 
 ## Links
 
-[![Static Badge](https://img.shields.io/badge/Live%20preview-white?style=for-the-badge&color=green)](https://pokemon-emerald-webapp.asciicrawler.com/)
-
 [![Static Badge](https://img.shields.io/badge/Frontend-white?style=for-the-badge&color=blue)](https://github.com/AsciiCrawler/pokemon-emerald-webapp-frontend)
 
 [![Static Badge](https://img.shields.io/badge/Backend-white?style=for-the-badge&color=red)](https://github.com/AsciiCrawler/pokemon-emerald-webapp-backend)
